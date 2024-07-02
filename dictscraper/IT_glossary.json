@@ -1,0 +1,2714 @@
+[
+    {
+        "Terminology":"Algorithm",
+        "Definition":"An algorithm that finds the shortest path between two nodes and uses a heuristic function to optimise performance."
+    },
+    {
+        "Terminology":"Absolute error",
+        "Definition":"The actual difference between a measured value and the true value."
+    },
+    {
+        "Terminology":"Abstract data type (ADT)",
+        "Definition":"A conceptual model of the way that data is arranged and the operations that can be carried out on the data."
+    },
+    {
+        "Terminology":"Abstract syntax tree (AST)",
+        "Definition":"A tree representation of the key constructs of a piece of source code, showing the order of evaluation."
+    },
+    {
+        "Terminology":"Abstraction",
+        "Definition":"A set of techniques used to solve complex problems that involves removing unnecessary details so the main processes involved can be easily identified."
+    },
+    {
+        "Terminology":"Acceptable Use Policy",
+        "Definition":"An agreement between an organisation and its users that sets out how computer equipment, the network, and systems should be used, and specifies the ways in which their use is restricted."
+    },
+    {
+        "Terminology":"Accepting state",
+        "Definition":"A state that will be reached when a valid string is input."
+    },
+    {
+        "Terminology":"Access modifiers",
+        "Definition":"Keywords that specify how the members (attributes and methods) of a class can be accessed. Common modifiers include 'public', 'private', and 'protected'."
+    },
+    {
+        "Terminology":"Access speed",
+        "Definition":"The speed at which data can be written to and read from a storage device."
+    },
+    {
+        "Terminology":"Accessibility",
+        "Definition":"The practice of removing barriers that prevent access to, or interaction with, products, services, and environments."
+    },
+    {
+        "Terminology":"Address bus",
+        "Definition":"A communication pathway that is used to carry the address of a memory location in order to either read data from, or write data to, that memory location."
+    },
+    {
+        "Terminology":"Address bus width",
+        "Definition":"The number of parallel lines that make up the address bus. This will determine the amount of memory that can be addressed by the system."
+    },
+    {
+        "Terminology":"Addressing mode",
+        "Definition":"Part of a program instruction that specifies how the operand must be interpreted."
+    },
+    {
+        "Terminology":"Adjacency list",
+        "Definition":"A list of nodes and their adjacent nodes."
+    },
+    {
+        "Terminology":"Adjacency matrix",
+        "Definition":"A two-dimensional array used to store graph data."
+    },
+    {
+        "Terminology":"ADSL",
+        "Definition":"Asymmetric digital subscriber line. Technology that enables the use of a standard telephone line to receive and transmit data. It enables higher download speeds than upload speeds."
+    },
+    {
+        "Terminology":"Agent (AI)",
+        "Definition":"A computational entity designed to interact with an environment, learning to make decisions and take actions through trial-and-error learning and feedback mechanisms."
+    },
+    {
+        "Terminology":"Aggregation",
+        "Definition":"Defines a 'has-a' relationship between two classes. In aggregation, the objects can exist independently of each other."
+    },
+    {
+        "Terminology":"Agile methodology",
+        "Definition":"A software development methodology used to manage the stages of the software development life cycle."
+    },
+    {
+        "Terminology":"Algorithm",
+        "Definition":"A finite and well-defined sequence of steps that need to be followed to perform a task."
+    },
+    {
+        "Terminology":"ALU",
+        "Definition":"Arithmetic logic unit. A component of the processor that performs arithmetic operations and logical comparisons."
+    },
+    {
+        "Terminology":"Amplitude",
+        "Definition":"The height of an analogue wave, measured from its rest level, at a given point in time. For sound waves, this is a measurement of volume."
+    },
+    {
+        "Terminology":"Analogue",
+        "Definition":"A signal that varies continuously over a period of time. Sound waves are typical examples of analogue wave forms."
+    },
+    {
+        "Terminology":"AND",
+        "Definition":"A Boolean operation that outputs True if both input values are True."
+    },
+    {
+        "Terminology":"Anomaly",
+        "Definition":"A deviation from the common rule that does not fit into any established pattern."
+    },
+    {
+        "Terminology":"Anti-malware",
+        "Definition":"Software that is used to detect and remove malware."
+    },
+    {
+        "Terminology":"Append mode",
+        "Definition":"A file handling mode that allows a program to write extra data at the end of a file without erasing the existing contents of the file."
+    },
+    {
+        "Terminology":"Append operator (++)",
+        "Definition":"Used to add a new item or items to the end of a list."
+    },
+    {
+        "Terminology":"Application software",
+        "Definition":"Software designed to carry out a task for an end user, such as creating a document or sending an email."
+    },
+    {
+        "Terminology":"Arc",
+        "Definition":"A connection between two nodes in a graph data structure. Also called edge."
+    },
+    {
+        "Terminology":"Argument",
+        "Definition":"A data value or reference passed to a subroutine as required by its defined parameters."
+    },
+    {
+        "Terminology":"Arithmetic operators",
+        "Definition":"Operators that perform mathematical operations on data, such as addition or division."
+    },
+    {
+        "Terminology":"Array",
+        "Definition":"A data structure whose elements can be accessed directly by index. The position of each element is computed at runtime."
+    },
+    {
+        "Terminology":"Artificial intellence (AI)",
+        "Definition":"The design and study of systems that appear to mimic intelligent behaviour."
+    },
+    {
+        "Terminology":"ASCII",
+        "Definition":"American Standard Code for Information Interchange. An encoding format that allocates a numeric code to characters (e.g. digits, letters, punctuation marks, etc.) in order for them to be represented in binary within a computer system."
+    },
+    {
+        "Terminology":"Assembler",
+        "Definition":"A program that translates assembly code into machine code."
+    },
+    {
+        "Terminology":"Assembly languages",
+        "Definition":"A low-level programming language that uses mnemonics to represent machine code operations."
+    },
+    {
+        "Terminology":"Asymmetric encryption",
+        "Definition":"A method of encryption in which a pair of keys (a public key and a private key) are used to encrypt and decrypt data."
+    },
+    {
+        "Terminology":"Asynchronous communication",
+        "Definition":"A method of communication where data is transmitted over a channel that is not controlled by a shared clock signal."
+    },
+    {
+        "Terminology":"Attribute (databases)",
+        "Definition":"A property or characteristic of a database entity. The attributes specify the data items that are used to define an entity."
+    },
+    {
+        "Terminology":"Attribute (OOP)",
+        "Definition":"A property of an object. The attributes specify the data items that are used to define the object."
+    },
+    {
+        "Terminology":"Authentication",
+        "Definition":"A security measure used to verify a user's identity and level of permissions."
+    },
+    {
+        "Terminology":"Automation",
+        "Definition":"The deployment of technology to solve a problem with reduced human assistance."
+    },
+    {
+        "Terminology":"Autonomous system",
+        "Definition":"A computer system that responds to inputs from it's environment and executes actions to achieve a goal without the need for human intervention."
+    },
+    {
+        "Terminology":"Back-up",
+        "Definition":"A copy of data, usually stored on a separate device, that can be used to recover the data if a storage device fails or the original data is corrupted or lost."
+    },
+    {
+        "Terminology":"Backtracking",
+        "Definition":"A technique for solving problems recursively."
+    },
+    {
+        "Terminology":"Bandwidth",
+        "Definition":"The theoretical maximum amount of data that can be transferred over a communication channel. It is measured in bits per second."
+    },
+    {
+        "Terminology":"Barcode",
+        "Definition":"A means of representing data in machine-readable form. Barcodes have traditionally represented data by a set of parallel lines of varied width and spacing."
+    },
+    {
+        "Terminology":"Base",
+        "Definition":"The number of unique digits used to represent numbers."
+    },
+    {
+        "Terminology":"Base case",
+        "Definition":"A value for which there is a solution for a basic instance of a problem and which provides a stopping condition for recursion."
+    },
+    {
+        "Terminology":"Baud rate",
+        "Definition":"The speed of data transmission. The number of times per second that a signal changes (or could change)."
+    },
+    {
+        "Terminology":"Big Data",
+        "Definition":"Data that is too large and complex to be dealt with by traditional processing methods and systems."
+    },
+    {
+        "Terminology":"Big O",
+        "Definition":"A formal notation for expressing the time or space complexity of an algorithm."
+    },
+    {
+        "Terminology":"Binary",
+        "Definition":"A number system that uses two distinct symbols (the digits 0 and 1) to represent a number. Also called base-2."
+    },
+    {
+        "Terminology":"Binary addition",
+        "Definition":"The process of adding two binary numbers."
+    },
+    {
+        "Terminology":"Binary file",
+        "Definition":"A file that stores data as binary sequences that can be interpreted by a computer system but are not in a human-readable format."
+    },
+    {
+        "Terminology":"Binary search",
+        "Definition":"An algorithm to search for an item in a sorted data set. It discards half of the remaining data with each comparison and repeats the process until the item is found or until the data set is exhausted."
+    },
+    {
+        "Terminology":"Binary search tree",
+        "Definition":"A data structure that is designed for efficient searching where each node's value is greater than that of all nodes in its left subtree and less than that of all nodes in its right subtree."
+    },
+    {
+        "Terminology":"Binary shift left",
+        "Definition":"Moving all the bits of a binary sequence one place to the left."
+    },
+    {
+        "Terminology":"Binary shift right",
+        "Definition":"Moving all the bits of a binary sequence one place to the right."
+    },
+    {
+        "Terminology":"Binary tree",
+        "Definition":"A rooted tree where each node has a maximum of two child nodes."
+    },
+    {
+        "Terminology":"Biometric",
+        "Definition":"A physical characteristic that can be used to authenticate an individual person."
+    },
+    {
+        "Terminology":"BIOS",
+        "Definition":"Basic Input\/Output System. Software that is stored in non-volatile memory, that carries out checks on core system components and starts up (boots) a computer system to the point where management and control can be passed to the operating system."
+    },
+    {
+        "Terminology":"Bit",
+        "Definition":"A binary digit. The basic unit of data within a computer system that has the value 0 or 1."
+    },
+    {
+        "Terminology":"Bit depth",
+        "Definition":"The number of bits used to encode each sample. Determines how accurately the sample can be represented. Also called sampling resolution."
+    },
+    {
+        "Terminology":"Bit pattern",
+        "Definition":"A unique string of binary digits used in a representation."
+    },
+    {
+        "Terminology":"Bit rate",
+        "Definition":"The number of bits that are transmitted over a communications channel per second."
+    },
+    {
+        "Terminology":"Bitmapped graphic",
+        "Definition":"A type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped image."
+    },
+    {
+        "Terminology":"Bitmapped image",
+        "Definition":"A type of digital image that is stored as pixels. Each pixel is represented by a single colour code. Also called bitmapped graphic."
+    },
+    {
+        "Terminology":"Black box testing",
+        "Definition":"Testing that does not rely on understanding the inner workings of a program."
+    },
+    {
+        "Terminology":"Blagging",
+        "Definition":"An attack in which the attacker invents a scenario in order to convince the victim to give them personal information or money."
+    },
+    {
+        "Terminology":"Bluetooth",
+        "Definition":"A standard for wireless technology that is used for exchanging data over short distances."
+    },
+    {
+        "Terminology":"BNF",
+        "Definition":"Backus-Naur Form. A formal notation for describing a context-free language such as a programming language."
+    },
+    {
+        "Terminology":"Boolean algebra",
+        "Definition":"A branch of algebra where the variables have one of two possible values \u2014 True or False. These values are often expressed as 1 and 0."
+    },
+    {
+        "Terminology":"Boolean expression",
+        "Definition":"A logical statement, made up of Boolean variables, Boolean constants and Boolean operators that will always evaluate as True or False."
+    },
+    {
+        "Terminology":"Boolean identity",
+        "Definition":"A relation between two elements that always holds true for all possible values of the variable(s)."
+    },
+    {
+        "Terminology":"Boolean operator",
+        "Definition":"An operator that perform a logical comparison, such as AND, NOT, or OR. Also called logical operator."
+    },
+    {
+        "Terminology":"Boolean variable",
+        "Definition":"A variable that takes one of only two values: True or False. These values are represented in binary as 1 or 0. Some systems will display the values as Yes\/No."
+    },
+    {
+        "Terminology":"Boot sequence",
+        "Definition":"The order in which devices are checked before an operating system is loaded when a computer system is powered on."
+    },
+    {
+        "Terminology":"Booting",
+        "Definition":"The process of starting up a computer system from hardware or firmware when it is powered on."
+    },
+    {
+        "Terminology":"Bootloader",
+        "Definition":"Software responsible for carrying out the boot process when the computer is first turned on."
+    },
+    {
+        "Terminology":"Botnet",
+        "Definition":"A group of computers infected by malware that can be controlled remotely."
+    },
+    {
+        "Terminology":"Boundary data",
+        "Definition":"Test data that is on the limit of the acceptable range of valid data."
+    },
+    {
+        "Terminology":"Breadth-first search",
+        "Definition":"A method of searching a graph data structure that visits all nodes adjacent to the current node before moving on. Uses a queue to support the process."
+    },
+    {
+        "Terminology":"Brute force attack",
+        "Definition":"A method of systematically trying all possibilities to find secret information (eg a password or encryption key)."
+    },
+    {
+        "Terminology":"Bubble sort",
+        "Definition":"A sorting algorithm that repeatedly compares pairs of values within a list and swaps them if they are out of order."
+    },
+    {
+        "Terminology":"Bus",
+        "Definition":"A communication pathway along which signals are transmitted. Historically, a set of parallel wires."
+    },
+    {
+        "Terminology":"Bus topology",
+        "Definition":"The arrangement (usually logical) of a network where devices are connected over a shared main cable."
+    },
+    {
+        "Terminology":"Byte",
+        "Definition":"Eight bits of binary data."
+    },
+    {
+        "Terminology":"Bytecode",
+        "Definition":"Low-level code, produced by a compiler, that can be interpreted by a virtual machine."
+    },
+    {
+        "Terminology":"Cache",
+        "Definition":"High-speed memory used to hold the data that is accessed most frequently, to improve processor performance."
+    },
+    {
+        "Terminology":"Caesar cipher",
+        "Definition":"A simple substitution cipher in which each letter is shifted by a certain number of places."
+    },
+    {
+        "Terminology":"Call stack",
+        "Definition":"A stack that is used to store information (stack frames) relevant to all subroutines that are currently running within a program."
+    },
+    {
+        "Terminology":"Cardinality",
+        "Definition":"The number of (distinct) elements in a set."
+    },
+    {
+        "Terminology":"Cartesian product",
+        "Definition":"The set of all ordered pairs formed by multiplying the elements of two sets."
+    },
+    {
+        "Terminology":"Casting",
+        "Definition":"Changing the data type of a piece of data, for example, converting a string to an integer."
+    },
+    {
+        "Terminology":"CCTV",
+        "Definition":"Closed-circuit television. A security system where signals from video cameras are transmitted to a limited number of tvs for surveillance and monitoring."
+    },
+    {
+        "Terminology":"CD",
+        "Definition":"Compact disc. An optical storage device."
+    },
+    {
+        "Terminology":"Certification Authority (CA)",
+        "Definition":"A trusted organisation that can authenticate the certificate for a website provider."
+    },
+    {
+        "Terminology":"Character",
+        "Definition":"A single letter, number, or symbol."
+    },
+    {
+        "Terminology":"Character set",
+        "Definition":"A system for representing letters, numbers, and symbols in binary, with each represented by a binary sequence."
+    },
+    {
+        "Terminology":"Checksum",
+        "Definition":"A value derived from a block of binary data that is used for error checking as part of a data communication system."
+    },
+    {
+        "Terminology":"CIDR",
+        "Definition":"Classless Inter-Domain Routing. A method that allows variable-length network identifiers. The length is typically indicated as a suffix to an IP address (a slash followed by the number of bits allocated to network ID)."
+    },
+    {
+        "Terminology":"Ciphertext",
+        "Definition":"An encrypted message that is the result of applying an encryption algorithm to a plaintext message."
+    },
+    {
+        "Terminology":"CIR",
+        "Definition":"Current Instruction Register. The register that holds a copy of the instruction that is currently being decoded and executed."
+    },
+    {
+        "Terminology":"Circuit switching",
+        "Definition":"A method of transferring data across a network, where the end-to-end path is established before any data is sent."
+    },
+    {
+        "Terminology":"Circular queue",
+        "Definition":"A way of implementing a queue based on a static array where free space at the start of the array is used once the end of the array is reached."
+    },
+    {
+        "Terminology":"Class (HTML)",
+        "Definition":"An identifier that can be applied to a collection of HTML elements to style them in a way that is specified by a corresponding CSS rule-set."
+    },
+    {
+        "Terminology":"Class (OOP)",
+        "Definition":"A definition of an object that describes its properties (attributes) and behaviours (methods)."
+    },
+    {
+        "Terminology":"Class diagram",
+        "Definition":"A diagram that is used to model the classes within an OOP system. A rectangle is used to represent each class. Lines and arrows are used to show the relationships between the classes."
+    },
+    {
+        "Terminology":"Client",
+        "Definition":"A software process that makes requests of servers within a client-server network."
+    },
+    {
+        "Terminology":"Client\u2013server model",
+        "Definition":"A networking architecture where devices are designated as clients or servers. Clients make requests for services from servers that respond to these requests."
+    },
+    {
+        "Terminology":"Clock",
+        "Definition":"An electronic unit that generates pulses at a constant rate to synchronise related components."
+    },
+    {
+        "Terminology":"Clock cycle",
+        "Definition":"The elapsed time between the change of signals from a clock."
+    },
+    {
+        "Terminology":"Clock speed",
+        "Definition":"The rate at which the processor can complete its programming cycle. Typically measured in gigahertz, where 1Ghz is one billion cycles per second."
+    },
+    {
+        "Terminology":"Closed source software",
+        "Definition":"Software for which the program source code is not made available to the general public."
+    },
+    {
+        "Terminology":"Cloud storage",
+        "Definition":"A method of storing and retrieving files using the internet. The files are hosted on remote servers maintained by the cloud storage provider."
+    },
+    {
+        "Terminology":"Co-domain",
+        "Definition":"The set of data that defines all possible outputs of a function."
+    },
+    {
+        "Terminology":"Coaxial cable",
+        "Definition":"A cable made up of an inner conductor and an outer conducting shield, separated by an insulator."
+    },
+    {
+        "Terminology":"Code review",
+        "Definition":"The checking of code written by another programmer to ensure its quality."
+    },
+    {
+        "Terminology":"Collision (hashing)",
+        "Definition":"Occurs when two (different) keys generate the same hash value."
+    },
+    {
+        "Terminology":"Collision (networking)",
+        "Definition":"A situation on a network, where two or more devices transmit at the same time, on the same medium, and the electrical signals collide."
+    },
+    {
+        "Terminology":"Colour depth",
+        "Definition":"The number of bits used to represent a colour. Also known as bit depth."
+    },
+    {
+        "Terminology":"Commitment ordering",
+        "Definition":"A technique used to control multi-user access to a database based around ensuring that multiple commitments are processed in the correct order."
+    },
+    {
+        "Terminology":"Comparison operators",
+        "Definition":"Operators, such as greater than, that perform comparisons on two data values. The operation returns either True or False."
+    },
+    {
+        "Terminology":"Compiler",
+        "Definition":"A program translator that goes through several stages to produce object code (an executable file)."
+    },
+    {
+        "Terminology":"Complexity",
+        "Definition":"Measure of resources needed for an algorithm to complete, generally in time and memory requirements."
+    },
+    {
+        "Terminology":"Composite key",
+        "Definition":"A key that is made up of more than one attribute"
+    },
+    {
+        "Terminology":"Composition",
+        "Definition":"Defines an 'is-part-of' relationship between two classes. In composition, one object can exist only as part of another object."
+    },
+    {
+        "Terminology":"Compression",
+        "Definition":"The process of reducing file size by applying a compression algorithm."
+    },
+    {
+        "Terminology":"Computational security",
+        "Definition":"A measure of how hard it is to use a computer to crack a piece of ciphertext."
+    },
+    {
+        "Terminology":"Computational steps",
+        "Definition":"Statements in program code that calculate or compare values."
+    },
+    {
+        "Terminology":"Computer architecture",
+        "Definition":"The structure and organisation of a computer system."
+    },
+    {
+        "Terminology":"Computer system",
+        "Definition":"The hardware and software that work together for computation."
+    },
+    {
+        "Terminology":"Concatenation",
+        "Definition":"Joining two strings together to make a new string."
+    },
+    {
+        "Terminology":"Concurrent access",
+        "Definition":"A situation where one or more user(s) attempt(s) to access the same file or record at the same time."
+    },
+    {
+        "Terminology":"Concurrent processing",
+        "Definition":"A process where two or more threads (subtasks) can make progress simultaneously by being given slices of processor time."
+    },
+    {
+        "Terminology":"Condition",
+        "Definition":"An expression that evaluates to True or False (such as within an 'if' statement)."
+    },
+    {
+        "Terminology":"Constant",
+        "Definition":"An identifier associated with an area of computer memory in which data is stored. The stored data cannot change during program execution."
+    },
+    {
+        "Terminology":"Constant time",
+        "Definition":"The time complexity of an algorithm where the time taken to run it does not depend on the size of the input data set."
+    },
+    {
+        "Terminology":"Constructor",
+        "Definition":"A method that initialises and sets up a new class of the object."
+    },
+    {
+        "Terminology":"Contiguous",
+        "Definition":"In sequence, one after another."
+    },
+    {
+        "Terminology":"Control bus",
+        "Definition":"A communication pathway that carries signals to control the communication between the processor and other CPU components."
+    },
+    {
+        "Terminology":"Control character",
+        "Definition":"A non-printing character in a character set which is used to trigger an action. For example, escape (ESC) and delete (DEL)."
+    },
+    {
+        "Terminology":"Control information",
+        "Definition":"Information, typically contained in a packet header, that provides data for packet routing, sequencing, and delivery."
+    },
+    {
+        "Terminology":"Control protocol",
+        "Definition":"An agreed method used to determine when messages should (and should not) be sent."
+    },
+    {
+        "Terminology":"Control unit (CU)",
+        "Definition":"A component of the processor that directs the operation of the other system components by providing timing and control signals. Also called program control unit (PCU)."
+    },
+    {
+        "Terminology":"Convex combination",
+        "Definition":"One or more vectors that lie within the convex hull."
+    },
+    {
+        "Terminology":"Convex hull",
+        "Definition":"A representation of the space between two or more vectors."
+    },
+    {
+        "Terminology":"Cookie",
+        "Definition":"A small text file created on your computer that stores web browsing session data or information to identify you next time you access that site."
+    },
+    {
+        "Terminology":"Copyright",
+        "Definition":"The right given to the originator of a piece of work to control how it can be used."
+    },
+    {
+        "Terminology":"Core",
+        "Definition":"A processing unit that contains an ALU, a control unit, and registers. A processor can have multiple cores, which can improve the performance of a computer system."
+    },
+    {
+        "Terminology":"Core router",
+        "Definition":"A high-performance router that forwards IP packets across the backbone of the internet."
+    },
+    {
+        "Terminology":"Countable set",
+        "Definition":"A finite set where the members can be counted using natural numbers."
+    },
+    {
+        "Terminology":"Countably infinite set",
+        "Definition":"A set whose elements can be counted such that you will eventually get to a particular element in a finite amount of time."
+    },
+    {
+        "Terminology":"CPU",
+        "Definition":"Central processing unit. The part of the computer that executes program instructions to process data. It also handles main memory and input-output operations."
+    },
+    {
+        "Terminology":"CRUD",
+        "Definition":"Create, Read, Update, Delete. The main operations that can be carried out on data in a database."
+    },
+    {
+        "Terminology":"Cryptography",
+        "Definition":"The practice and study of techniques used for data encryption."
+    },
+    {
+        "Terminology":"CSMA\/CA",
+        "Definition":"Carrier Sense Multiple Access with Collision Avoidance. A method used to avoid collisions on a network. A device checks whether the communications channel is idle before attempting to transmit data."
+    },
+    {
+        "Terminology":"CSS",
+        "Definition":"Cascading Style Sheets. A set of definitions that can be used to style the content and layout of an HTML page."
+    },
+    {
+        "Terminology":"CSV file",
+        "Definition":"Comma Separated Values. A text file in which each line is a record, and each record is divided into fields separated by a delimiter, usually a comma."
+    },
+    {
+        "Terminology":"Culture",
+        "Definition":"The ideas, customs, and social behaviour of a particular group of people."
+    },
+    {
+        "Terminology":"Cyberattack",
+        "Definition":"An attempt to gain unauthorised access to a computer, computing system, or computer network with the intent to cause damage, to cause disruption, or to steal data."
+    },
+    {
+        "Terminology":"Dark web",
+        "Definition":"An unindexed part of the internet that must be accessed through specialist software and hosts a wide range of (mainly illegal) content."
+    },
+    {
+        "Terminology":"Data",
+        "Definition":"One or more values that can be input into, processed, and stored for later retrieval by a computer system."
+    },
+    {
+        "Terminology":"Data abstraction",
+        "Definition":"A way of describing the way that data is organised in a way that is independent of the implementation details."
+    },
+    {
+        "Terminology":"Data bus",
+        "Definition":"A communication pathway that is used to carry data between the processor and other CPU components."
+    },
+    {
+        "Terminology":"Data communication",
+        "Definition":"The process of sending and receiving data."
+    },
+    {
+        "Terminology":"Data mining",
+        "Definition":"The process of extracting valuable information by discovering patterns in large data sets."
+    },
+    {
+        "Terminology":"Data packets",
+        "Definition":"A segment of data, usually from a larger message. Each segment has a header and travels independently through a network."
+    },
+    {
+        "Terminology":"Data redundancy",
+        "Definition":"The same item of data being stored in multiple places."
+    },
+    {
+        "Terminology":"Data type",
+        "Definition":"An attribute of a data item that determines the values that can be stored and the operations that can be carried out on that data item. Examples of common data types are string, character, integer, float, and Boolean."
+    },
+    {
+        "Terminology":"Data warehousing",
+        "Definition":"Data from different sources that is brought together to be used in data analysis."
+    },
+    {
+        "Terminology":"Database",
+        "Definition":"An organised collection of data that can be as simple as a single file, and as complex as a set of related tables."
+    },
+    {
+        "Terminology":"DBMS",
+        "Definition":"DataBase Management System. A software package that allows a database administrator to maintain one or more databases."
+    },
+    {
+        "Terminology":"DDoS",
+        "Definition":"Distributed Denial of Service. A malicious attempt to overwhelm a server by bombarding it with requests. In a distributed attack, the requests come from a large number of distributed computer systems, typically a botnet."
+    },
+    {
+        "Terminology":"De Morgan\u2019s Laws",
+        "Definition":"NOT (A AND B) is the same as (NOT A) OR (NOT B). NOT (A OR B) is the same as (NOT A) AND (NOT B)."
+    },
+    {
+        "Terminology":"Debugging",
+        "Definition":"The process of finding and correcting errors in program code."
+    },
+    {
+        "Terminology":"Decision tree",
+        "Definition":"A hierarchical structure used in machine learning that is trained to make predictions by traversing from root to leaf nodes, where each internal node represents a decision and each leaf node represents an outcome or class label."
+    },
+    {
+        "Terminology":"Declaration",
+        "Definition":"The process of stating the name of a variable or constant and defining its data type."
+    },
+    {
+        "Terminology":"Decomposition",
+        "Definition":"The process of breaking down a large task into several subtasks."
+    },
+    {
+        "Terminology":"Decrement",
+        "Definition":"To decrease the value of a variable. For example, count = count - 1"
+    },
+    {
+        "Terminology":"Deep learning",
+        "Definition":"A technique used in the training of multi-layer artificial neural networks to enable a model to perform complex pattern recognition and decision-making tasks."
+    },
+    {
+        "Terminology":"Default gateway",
+        "Definition":"A device (typically a router) in a computer network that forwards packets to another network when the destination is not part of the internal network."
+    },
+    {
+        "Terminology":"Default value",
+        "Definition":"A pre-defined value given to a component of a computer program (such as a variable or parameter) when none is explicitly provided."
+    },
+    {
+        "Terminology":"Definite iteration",
+        "Definition":"A set of instructions that is repeated a specific number of times. Typically it is implemented by using count-controlled loops, such as a for loop."
+    },
+    {
+        "Terminology":"Defragmentation",
+        "Definition":"The process of organising file blocks stored on a disk by grouping them into adjacent sectors."
+    },
+    {
+        "Terminology":"Degree of relationship",
+        "Definition":"The relationship between two entities (one-to-one, one-to-many, or many-to-many)."
+    },
+    {
+        "Terminology":"Denary",
+        "Definition":"A number system that uses ten distinct symbols (the numbers 0\u20139) to represent a number. Also called decimal or base-10."
+    },
+    {
+        "Terminology":"Depth-first search",
+        "Definition":"A method of searching a graph data structure that explores as far as possible along an unexplored branch before backtracking and selecting a new branch to explore. Uses a stack to support the process."
+    },
+    {
+        "Terminology":"Depth-first tree traversal",
+        "Definition":"An algorithm for traversing a tree data structure that starts at the root node and explores as far as possible along each branch before backtracking."
+    },
+    {
+        "Terminology":"Dequeue",
+        "Definition":"The operation of removing an item from the front of a queue"
+    },
+    {
+        "Terminology":"Device driver",
+        "Definition":"Software that provides an interface to a peripheral device such as a printer. The driver translates commands from the peripheral device into a form that the operating system and other programs can understand and vice versa."
+    },
+    {
+        "Terminology":"DHCP",
+        "Definition":"Dynamic Host Control Protocol. A protocol used when a new device requests to joins a network. The new device is allocated an IP address, subnet mask, default gateway, and DNS server addresses."
+    },
+    {
+        "Terminology":"Dictionary",
+        "Definition":"An abstract data type that stores an unordered set of key\u2013value pairs. Values are stored and retrieved by key, not by position."
+    },
+    {
+        "Terminology":"Dictionary-based method",
+        "Definition":"A lossless method of compression where each different word or group of characters is assigned a code. When the file is compressed, the words or character groups are substituted by the codes."
+    },
+    {
+        "Terminology":"Digital camera",
+        "Definition":"A device that captures an image in digital form."
+    },
+    {
+        "Terminology":"Digital certificate",
+        "Definition":"A file that contains important information relating to the security of websites, including the public key for encryption."
+    },
+    {
+        "Terminology":"Digital signature",
+        "Definition":"A value that is calculated and encrypted that demonstrates that an encrypted document is from the stated sender and has not been tampered with."
+    },
+    {
+        "Terminology":"Dijkstra's shortest path algorithm",
+        "Definition":"An algorithm that finds the shortest path between the start node and all other nodes in a given graph."
+    },
+    {
+        "Terminology":"Direct addressing",
+        "Definition":"A method of addressing where the operand is the address of the data to be used."
+    },
+    {
+        "Terminology":"Directed graph",
+        "Definition":"A graph where the connections between nodes are not bidirectional."
+    },
+    {
+        "Terminology":"Documentation",
+        "Definition":"Material that explains how the system works."
+    },
+    {
+        "Terminology":"Domain",
+        "Definition":"The set of data that defines all possible inputs of a function."
+    },
+    {
+        "Terminology":"Domain name",
+        "Definition":"A user-friendly name given to a domain that forms part of the internet."
+    },
+    {
+        "Terminology":"Domain name server",
+        "Definition":"A server that works to resolve domain names to corresponding IP addresses."
+    },
+    {
+        "Terminology":"Domain name system",
+        "Definition":"A hierarchy of servers that work together to resolve domain names to corresponding IP addresses."
+    },
+    {
+        "Terminology":"Dot product",
+        "Definition":"An operation that combines two vectors to produce a scalar value."
+    },
+    {
+        "Terminology":"Dynamic data structure",
+        "Definition":"A collection of data that can grow (or shrink) in size at runtime."
+    },
+    {
+        "Terminology":"Dynamic filtering",
+        "Definition":"A filtering method used by a firewall, that makes use of a connection table to keep track of open connections."
+    },
+    {
+        "Terminology":"E-waste",
+        "Definition":"Electronic waste. Unwanted electronics components destined for refurbishment, reuse, resale, recycling, or disposal."
+    },
+    {
+        "Terminology":"Eavesdropping",
+        "Definition":"The process of monitoring network traffic to intercept the data being transmitted."
+    },
+    {
+        "Terminology":"Edge",
+        "Definition":"A connection between two nodes in a graph data structure. Also called arc."
+    },
+    {
+        "Terminology":"Edge router",
+        "Definition":"A router that connects an organisation's network and forwards IP packets to and from the backbone of the internet."
+    },
+    {
+        "Terminology":"Efficiency",
+        "Definition":"An expression of the computational time and space required to perform an algorithm."
+    },
+    {
+        "Terminology":"Embedded system",
+        "Definition":"A complete computer system that has a dedicated function within a larger system."
+    },
+    {
+        "Terminology":"Empty set",
+        "Definition":"The unique set with no members."
+    },
+    {
+        "Terminology":"Encapsulation (OOP)",
+        "Definition":"The concept of packaging data together with the methods that operate on that data."
+    },
+    {
+        "Terminology":"Encoding",
+        "Definition":"The process of representing data in binary form."
+    },
+    {
+        "Terminology":"Encryption",
+        "Definition":"The process of applying an encryption algorithm to plaintext to produce ciphertext that cannot be understood (without decryption)."
+    },
+    {
+        "Terminology":"Encryption key",
+        "Definition":"Information that is needed by an encryption algorithm to encrypt (or decrypt) a message."
+    },
+    {
+        "Terminology":"Enqueue",
+        "Definition":"The process of adding an item to a queue."
+    },
+    {
+        "Terminology":"Entity",
+        "Definition":"Something about which data will be stored, e.g. a customer or booking."
+    },
+    {
+        "Terminology":"Entity relationship diagram",
+        "Definition":"A diagram that shows the degree of relationship between two or more entities."
+    },
+    {
+        "Terminology":"Environment (AI)",
+        "Definition":"The external system or computer simulation that an AI agent interacts with, providing feedback in response to the agent's actions, enabling it to learn and adapt its behaviour over time."
+    },
+    {
+        "Terminology":"Erroneous data",
+        "Definition":"Test data that should be caught by validation and rejected by a system."
+    },
+    {
+        "Terminology":"Ethernet",
+        "Definition":"A group of networking technologies commonly used in local area networks."
+    },
+    {
+        "Terminology":"Ethical hacking",
+        "Definition":"The process of trying to break into a computer system with the permission of its owner, to determine its vulnerabilities and weak points. Also called penetration testing."
+    },
+    {
+        "Terminology":"Ethics",
+        "Definition":"A set of principles that includes ideas about whether things are right and wrong, and how people should (or should not) behave."
+    },
+    {
+        "Terminology":"Exception handling",
+        "Definition":"The process of dealing with unexpected events that might cause a program to terminate abruptly (crash)."
+    },
+    {
+        "Terminology":"Executable file",
+        "Definition":"A file that can be executed by the processor without further translation."
+    },
+    {
+        "Terminology":"Exponent",
+        "Definition":"Part of a floating point number that determines the position of the binary point."
+    },
+    {
+        "Terminology":"Exponential time",
+        "Definition":"The time complexity of an algorithm where the time taken to run it increases by an exponential factor on each single addition to the input data set."
+    },
+    {
+        "Terminology":"Expression",
+        "Definition":"Combination of variables, constants, values, or operators that is evaluated to produce a result."
+    },
+    {
+        "Terminology":"Fact-based model",
+        "Definition":"Facts are used to represent, model, and query data sets at the scale of Big Data."
+    },
+    {
+        "Terminology":"Fetch-decode-execute cycle",
+        "Definition":"A process that is followed repeatedly by the processor in order to carry out instructions. It has three stages: fetch, decode, execute. It is also called the instruction cycle or fetch-execute cycle."
+    },
+    {
+        "Terminology":"Fibre-optic cable",
+        "Definition":"A cable that can be used to transport electromagnetic waves in the infrared region. These waves are modulated to carry digital data at high speeds over long distances."
+    },
+    {
+        "Terminology":"Field",
+        "Definition":"Part of a record. Each field contains a specific piece of data."
+    },
+    {
+        "Terminology":"File access mode",
+        "Definition":"An operation that is specified within a command to open a file, that determines how a file can be used."
+    },
+    {
+        "Terminology":"File path",
+        "Definition":"A route to locate a file in a directory structure. File paths can be absolute or relative. An absolute path will start from the top of the directory structure. A relative path will provide a route that starts from the file that contains the path."
+    },
+    {
+        "Terminology":"File repair",
+        "Definition":"A type of utility software that can scan a damaged file, extract data from it, and store it as a new usable file."
+    },
+    {
+        "Terminology":"File type extension",
+        "Definition":"A suffix given to a file name to mark what kind of data is contained in the file, or what type of program created it. Examples include '.docx', '.jpg', and '.pdf'."
+    },
+    {
+        "Terminology":"Filter function",
+        "Definition":"A higher-order function that takes a list and some criteria as arguments, and returns a new list. The new list contains only those items that meet the specified criteria."
+    },
+    {
+        "Terminology":"Fingerprint",
+        "Definition":"A clue that helps to decrypt a message."
+    },
+    {
+        "Terminology":"Finite set",
+        "Definition":"A set where the number of elements is countable."
+    },
+    {
+        "Terminology":"Finite state machine",
+        "Definition":"A model of a system with a finite number of states. Transition between states depends on the input received when the machine is in a particular state."
+    },
+    {
+        "Terminology":"Firewall",
+        "Definition":"A system that filters network traffic to protect against unauthorised flows of data in or out of the network."
+    },
+    {
+        "Terminology":"First-class object",
+        "Definition":"An object that can be used as an argument to a function or produced as a return value."
+    },
+    {
+        "Terminology":"Fixed point number",
+        "Definition":"A real number where the binary point is stored in a fixed position."
+    },
+    {
+        "Terminology":"Flash memory",
+        "Definition":"A general term for non-volatile memory devices that store binary data in electrical circuits."
+    },
+    {
+        "Terminology":"Flat file database",
+        "Definition":"A database in which all data is held in a single table."
+    },
+    {
+        "Terminology":"Flip-flop",
+        "Definition":"A circuit that can store a single-bit value to act as a simple memory unit."
+    },
+    {
+        "Terminology":"Float",
+        "Definition":"A data type for a number with a decimal place. Stored as a floating point number."
+    },
+    {
+        "Terminology":"Floating point number",
+        "Definition":"A real number that is stored as a mantissa with a given number of significant digits, and an exponent that determines the position of the binary point."
+    },
+    {
+        "Terminology":"Flowchart",
+        "Definition":"A diagram that uses a standard set of symbols to document an algorithm."
+    },
+    {
+        "Terminology":"For Each loop",
+        "Definition":"Used to access each element of a collection of data (such as an array or a list) from first to last."
+    },
+    {
+        "Terminology":"For loop",
+        "Definition":"A count controlled loop. Used to repeat a specific block of code a known number of times."
+    },
+    {
+        "Terminology":"Foreign key",
+        "Definition":"An attribute in one table that is the primary key in another table and is used to link the tables together."
+    },
+    {
+        "Terminology":"Frame",
+        "Definition":"The name of the data structure at the link layer. It is used to move a packet between devices on a network."
+    },
+    {
+        "Terminology":"Frequency",
+        "Definition":"The rate of occurrence within a given time frame."
+    },
+    {
+        "Terminology":"Frequency analysis",
+        "Definition":"The process of examining the distribution of the letters or symbols in a piece of text."
+    },
+    {
+        "Terminology":"Frequency band",
+        "Definition":"A continuous range of radio wave frequencies allocated to a particular service. Frequency bands are often split into channels."
+    },
+    {
+        "Terminology":"Front",
+        "Definition":"A pointer to the start of a queue."
+    },
+    {
+        "Terminology":"FTP",
+        "Definition":"File Transfer Protocol. An application layer protocol that handles the exchange of files between FTP clients and FTP servers."
+    },
+    {
+        "Terminology":"Full adder",
+        "Definition":"A circuit, made up of several half adders, that performs the addition of binary numbers"
+    },
+    {
+        "Terminology":"Function (Mathematics)",
+        "Definition":"A set of rules that connects a set of values (the inputs of the function) to another set of values (the outputs of the function). Every member of the inputs set must map to a single element from the outputs set."
+    },
+    {
+        "Terminology":"Function (Programming)",
+        "Definition":"A named block of code that performs a task and returns one or more values."
+    },
+    {
+        "Terminology":"Function composition",
+        "Definition":"An operation in which one function is applied to the result of another function."
+    },
+    {
+        "Terminology":"Function type",
+        "Definition":"The data type of a function's parameter(s) and return value(s)."
+    },
+    {
+        "Terminology":"Functional programming",
+        "Definition":"A declarative programming paradigm, where pure functions are applied to data to transform it into new data. In functional programming data is immutable and programs have no state."
+    },
+    {
+        "Terminology":"Gateway",
+        "Definition":"A device within a network that connects it to another network. If the networks use different protocols, it will handle the conversion from one protocol to the other."
+    },
+    {
+        "Terminology":"GDPR",
+        "Definition":"General Data Protection Regulation.  It specifies the rules relating to the collection, storage and distribution of personal data that apply to most UK businesses and organisations."
+    },
+    {
+        "Terminology":"General case",
+        "Definition":"A statement that expresses the solution to a problem in terms of a reference to a smaller version of that same problem."
+    },
+    {
+        "Terminology":"General purpose register",
+        "Definition":"A storage location within the processor that is not reserved for a specific use within the computer architecture."
+    },
+    {
+        "Terminology":"Generalisation (abstraction)",
+        "Definition":"The process of removing unnecessary detail so that the problem can be generalised into a similar category of problems."
+    },
+    {
+        "Terminology":"Gibibyte",
+        "Definition":"One gibibyte is 1,073,741,824 bytes (230). The symbol for the gibibyte is GiB. See also gigabyte."
+    },
+    {
+        "Terminology":"Gigabyte",
+        "Definition":"One gigabyte is one billion bytes (109). The symbol for the gigabyte is GB. See also gibibyte."
+    },
+    {
+        "Terminology":"Global variable",
+        "Definition":"A variable that is accessible from all parts of a program."
+    },
+    {
+        "Terminology":"GPU",
+        "Definition":"Graphics Processing Unit. A specialised board with one or more processing cores and memory that are optimised for graphics processing tasks."
+    },
+    {
+        "Terminology":"Graph",
+        "Definition":"A non-linear data structure that comprises a set of connected nodes."
+    },
+    {
+        "Terminology":"Graph schema",
+        "Definition":"Describes the vertices and edges in a graph and defines how they relate to each other. Often shown in the form of a diagram."
+    },
+    {
+        "Terminology":"Graphics card",
+        "Definition":"A printed circuit board with its own dedicated processor and memory, which is used to handle graphics processing tasks."
+    },
+    {
+        "Terminology":"GUI",
+        "Definition":"Graphical User Interface. A type of interface that allows the user to interact with a computer system. It usually involves clicking on icons or selecting options from a menu."
+    },
+    {
+        "Terminology":"Hacking",
+        "Definition":"Gaining unauthorised access to or control of a computer system."
+    },
+    {
+        "Terminology":"Half adder",
+        "Definition":"A circuit that performs the addition of two bits. It takes two bits as input and outputs a sum and carry bit."
+    },
+    {
+        "Terminology":"Halting problem",
+        "Definition":"A problem that is significant to the theory of computation as it proves that some problems are undecidable or cannot be computed."
+    },
+    {
+        "Terminology":"Hard disk drive (HDD)",
+        "Definition":"A form of secondary storage, in which magnetic dots stored on platters (or disks) are used to store binary data."
+    },
+    {
+        "Terminology":"Hardware",
+        "Definition":"The physical components of a computer system."
+    },
+    {
+        "Terminology":"Harvard architecture",
+        "Definition":"A computer architecture that provides separate memories for data and instructions."
+    },
+    {
+        "Terminology":"Hash table",
+        "Definition":"An abstract data type that is used to optimise searching. Values are stored at locations of which the positions can be calculated by applying an algorithm to the key (of that data)."
+    },
+    {
+        "Terminology":"Hashing algorithm",
+        "Definition":"An algorithm that generates a hash value from a key."
+    },
+    {
+        "Terminology":"Head function",
+        "Definition":"A function that returns the first item of a list of items as a scalar value."
+    },
+    {
+        "Terminology":"Heading (HTML)",
+        "Definition":"Text that is usually larger or of a different style, to denote a section within a page."
+    },
+    {
+        "Terminology":"Heap",
+        "Definition":"A pool of memory that is allocated to service dynamic data structures"
+    },
+    {
+        "Terminology":"Heuristic",
+        "Definition":"An approach to solving a problem that will provide an approximate or \"good enough\" solution to an intractable problem."
+    },
+    {
+        "Terminology":"Hexadecimal",
+        "Definition":"A number system that uses 16 distinct symbols (the numbers 0-9 and the letters A-F) to represent a number. Also called hex or base-16."
+    },
+    {
+        "Terminology":"Hierarchy chart",
+        "Definition":"A diagram that shows the design of a system from a top-down perspective."
+    },
+    {
+        "Terminology":"High-level languages",
+        "Definition":"Programming languages that allow the programmer to specify the logical steps to solve a problem without having to worry about the low-level machine operations needed to perform the computation."
+    },
+    {
+        "Terminology":"HTML",
+        "Definition":"Hypertext Markup Language. Used to specify the elements of a web page to allow them to be presented in a certain way."
+    },
+    {
+        "Terminology":"HTML element",
+        "Definition":"A component of an HTML page that is enclosed within a start tag and an end tag. For example, <h1>My first book<\/h1>."
+    },
+    {
+        "Terminology":"HTTP",
+        "Definition":"Hypertext Transfer Protocol. An application layer protocol that enables data exchange between web clients and web servers."
+    },
+    {
+        "Terminology":"HTTPS",
+        "Definition":"Secure Hypertext Transfer Protocol. A set of application layer protocols that securely handles the exchange of data between web clients and web servers by encrypting the data."
+    },
+    {
+        "Terminology":"Hub",
+        "Definition":"A network device that is used to connect devices on a local area network. It is used to simplify cabling systems and acts as a repeater. When data arrives at a port, it is broadcast to the devices connected to every other port."
+    },
+    {
+        "Terminology":"Huffman coding",
+        "Definition":"A lossless compression technique often used to compress data (such as text) in which there are frequently occurring patterns."
+    },
+    {
+        "Terminology":"I\/O controller",
+        "Definition":"Input\/Output controller. Manages the flow of data between the processor and the input and output devices."
+    },
+    {
+        "Terminology":"Id (HTML)",
+        "Definition":"An identifier that is applied to a single HTML element to style it in a way that is specified by a corresponding CSS rule-set."
+    },
+    {
+        "Terminology":"IDE",
+        "Definition":"Integrated development environment. An application that facilitates the writing and running of programs. It also provides support with debugging and diagnostics."
+    },
+    {
+        "Terminology":"Identifier",
+        "Definition":"The name that a programmer gives to a variable, constant, or subroutine."
+    },
+    {
+        "Terminology":"Image file",
+        "Definition":"A file containing a digital image."
+    },
+    {
+        "Terminology":"Image resolution (density)",
+        "Definition":"The number of pixels in the same sized area of an image, usually expressed as pixels per inch (ppi) or dots per inch (dpi)."
+    },
+    {
+        "Terminology":"Image resolution (size)",
+        "Definition":"The number of pixels that make up a digital image, usually expressed as width x height for example 1920 x 1080."
+    },
+    {
+        "Terminology":"IMAP",
+        "Definition":"Internet Message Access Protocol. A protocol used to retrieve email from a server allowing multiple email clients to be synchronised with the same mailbox."
+    },
+    {
+        "Terminology":"Immediate addressing",
+        "Definition":"A method of addressing, where the operand is the actual data to be used."
+    },
+    {
+        "Terminology":"Immutable",
+        "Definition":"Not able to be changed."
+    },
+    {
+        "Terminology":"Immutable data structure",
+        "Definition":"A data structure in which stored values cannot be changed (eg added, removed, or replaced) during program execution."
+    },
+    {
+        "Terminology":"Imperative languages",
+        "Definition":"A programming language where the programmer defines a set of statements that must be followed (in the given order) to solve a problem."
+    },
+    {
+        "Terminology":"In-order traversal",
+        "Definition":"A method of traversing a tree so that a node is processed after its left subtree has been examined and before its right subtree has been examined."
+    },
+    {
+        "Terminology":"Increment",
+        "Definition":"To increase the value of a variable. For example, count = count + 1"
+    },
+    {
+        "Terminology":"Indefinite iteration",
+        "Definition":"A set of instructions that is repeated until a condition is met. Typically it is implemented by using condition-controlled loops, such as a while loop."
+    },
+    {
+        "Terminology":"Index",
+        "Definition":"A number that describes the position of an item within an array. Most computer systems start indexing at 0."
+    },
+    {
+        "Terminology":"Infinite set",
+        "Definition":"A set where the number of elements is not countable."
+    },
+    {
+        "Terminology":"Infix notation",
+        "Definition":"Expressions that are written with the operators positioned between the operands."
+    },
+    {
+        "Terminology":"Information hiding",
+        "Definition":"A technique that removes all unnecessary detail from a problem to expose its essential characteristics, in order to derive a solution."
+    },
+    {
+        "Terminology":"Inheritance",
+        "Definition":"A feature of OOP that allows you to base one class on another. The new subclass (or child class) inherits all the attributes and methods of the superclass (or parent class)."
+    },
+    {
+        "Terminology":"Initialisation",
+        "Definition":"Setting the initial value for a variable."
+    },
+    {
+        "Terminology":"Inline style",
+        "Definition":"A CSS rule-set that is written directly within the tag of an HTML element."
+    },
+    {
+        "Terminology":"Input device",
+        "Definition":"Peripheral devices such as keyboards and microphones that allow data to be entered into a computer system."
+    },
+    {
+        "Terminology":"Insertion sort",
+        "Definition":"A sorting algorithm that progressively evaluates items in a list and inserts them into the correct place in an ordered sublist."
+    },
+    {
+        "Terminology":"Instantiation",
+        "Definition":"A feature of OOP where a new object is created from a class definition and assigned to a reference variable."
+    },
+    {
+        "Terminology":"Instruction set",
+        "Definition":"The list of low level operations that can be executed by a processor (or processors that share the same architecture)."
+    },
+    {
+        "Terminology":"Integer",
+        "Definition":"A whole number, such as 5. It can be positive or negative."
+    },
+    {
+        "Terminology":"Integer division",
+        "Definition":"A division where the quotient (result) is an integer and any remainders are discarded. Integer division is sometimes also called floor division."
+    },
+    {
+        "Terminology":"Integers (set)",
+        "Definition":"The infinite set of all whole numbers (positive or negative) including zero."
+    },
+    {
+        "Terminology":"Integrated graphics",
+        "Definition":"A graphics processor that is built into the main CPU and shares its memory. Also known as onboard graphics."
+    },
+    {
+        "Terminology":"Integrity",
+        "Definition":"The reliability of data in terms of its accuracy, completeness and consitency."
+    },
+    {
+        "Terminology":"Interface",
+        "Definition":"A shared boundary across which two or more components of a computer system exchange information."
+    },
+    {
+        "Terminology":"Internet",
+        "Definition":"A global system of interconnected computer networks."
+    },
+    {
+        "Terminology":"Internet registrar",
+        "Definition":"A commercial organisation that will register a domain on your behalf."
+    },
+    {
+        "Terminology":"Internet registry",
+        "Definition":"An organisation that allocates domains and maintains the official register of domain owners for one or more top-level domains."
+    },
+    {
+        "Terminology":"Internet Service Provider (ISP)",
+        "Definition":"An organisation that provides a connection to the internet."
+    },
+    {
+        "Terminology":"Interpreter",
+        "Definition":"A program that translates and executes the instructions of a program written in a high-level language, one line at a time."
+    },
+    {
+        "Terminology":"Interrupt",
+        "Definition":"A signal sent to the processor requesting immediate attention."
+    },
+    {
+        "Terminology":"Interrupt service routine",
+        "Definition":"A program that handles a processor interrupt"
+    },
+    {
+        "Terminology":"Intractable problem",
+        "Definition":"A problem that cannot be solved by a computer system in a reasonable amount of time."
+    },
+    {
+        "Terminology":"IP",
+        "Definition":"Internet Protocol. An internet (network) layer protocol that ensures that packets can be transferred between the source and destination using the IP addresses in the packet header."
+    },
+    {
+        "Terminology":"IP address",
+        "Definition":"Internet Protocol address. A binary number assigned to a node in an internet network that is made up of a network ID and a host ID."
+    },
+    {
+        "Terminology":"Irrational numbers",
+        "Definition":"The infinite set of numbers that cannot be expressed as fractions (or ratios)."
+    },
+    {
+        "Terminology":"Iteration",
+        "Definition":"The process of repeating a sequence of instructions a number of times within a program loop. This can be a fixed number of repetitions (count-controlled loop) or the number of repetitions can be controlled by a condition (condition-controlled loop)."
+    },
+    {
+        "Terminology":"JavaScript",
+        "Definition":"A high-level programming language that can be executed by most web browsers. JavaScript can be used to change the appearance and behaviour of a webpage."
+    },
+    {
+        "Terminology":"JSON",
+        "Definition":"JavaScript Object Notation. An open file format that uses human-readable text for data transmission."
+    },
+    {
+        "Terminology":"Karnaugh map",
+        "Definition":"A way of arranging the truth table for a Boolean expression to facilitate simplification."
+    },
+    {
+        "Terminology":"Kibibyte",
+        "Definition":"One kibibyte is 1,024 bytes (210). The symbol for the kibibyte is KiB. See also kilobyte."
+    },
+    {
+        "Terminology":"Kilobyte",
+        "Definition":"One kilobyte is 1,000 bytes (103). The symbol for the kilobyte is kB. See also kibibyte."
+    },
+    {
+        "Terminology":"Large language model (LLM)",
+        "Definition":"An AI model trained using sophisticated machine learning techniques, on vast amounts of data, to learn complex patterns in language structures. This allows them to generate new text."
+    },
+    {
+        "Terminology":"Latency",
+        "Definition":"The time delay between a signal being sent and a signal being received."
+    },
+    {
+        "Terminology":"Layer",
+        "Definition":"An abstraction of a part of the communication system used by computers to exchange data with each other. The OSI model has seven layers."
+    },
+    {
+        "Terminology":"Least significant bit (LSB)",
+        "Definition":"The rightmost bit in a binary number. The position with the lowest place value."
+    },
+    {
+        "Terminology":"Legislation",
+        "Definition":"The laws that apply within a country. Computing legislation is a set of laws that regulate the use of computers and related areas."
+    },
+    {
+        "Terminology":"Library programs",
+        "Definition":"Shared repositories of code that can be used by other programs"
+    },
+    {
+        "Terminology":"Linear search",
+        "Definition":"An algorithm that searches for an item in a list of items by systematically examining each item, one after another."
+    },
+    {
+        "Terminology":"Linear time",
+        "Definition":"The time complexity of an algorithm where the time taken to run it rises in direct proportion to the size of the input data set."
+    },
+    {
+        "Terminology":"Linked list",
+        "Definition":"A list where each item contains the data and a pointer to the next item."
+    },
+    {
+        "Terminology":"List",
+        "Definition":"An abstract data type that defines a linear collection of related items."
+    },
+    {
+        "Terminology":"List (HTML)",
+        "Definition":"A series of items, which may be numbered or marked with bullet points."
+    },
+    {
+        "Terminology":"Local Area Network (LAN)",
+        "Definition":"A single network covering a single site, usually covering a small geographical area."
+    },
+    {
+        "Terminology":"Local variable",
+        "Definition":"A variable that is only defined and visible for use in specific parts of a program, e.g within a subroutine."
+    },
+    {
+        "Terminology":"Logarithmic time",
+        "Definition":"The time complexity of an algorithm where the time taken to run it is proportional to the logarithm of the size of input data set."
+    },
+    {
+        "Terminology":"Logic circuit",
+        "Definition":"Designed to perform a specific function(s) taking given inputs and producing resulting outputs."
+    },
+    {
+        "Terminology":"Logic circuit diagram",
+        "Definition":"A diagram that illustrates the arrangement of logic gates in a circuit."
+    },
+    {
+        "Terminology":"Logic error",
+        "Definition":"An error in source code that results in a program behaving unexpectedly."
+    },
+    {
+        "Terminology":"Logic gate",
+        "Definition":"An electronics component that carries out a logical operation on one or more inputs to produce a single output."
+    },
+    {
+        "Terminology":"Logic puzzle",
+        "Definition":"A puzzle that can be solved by logical thinking."
+    },
+    {
+        "Terminology":"Logical expressions",
+        "Definition":"An expression composed of relational operators, logical operators, or both, that evaluates to either True or False."
+    },
+    {
+        "Terminology":"Logical operators",
+        "Definition":"Operators (such as AND, OR, and NOT) that are used to form logical expressions. Also called Boolean operators."
+    },
+    {
+        "Terminology":"Loop",
+        "Definition":"A sequence of instructions that is repeated. This can be a fixed number of repetitions (count-controlled loop) or the number of repetitions can be controlled by a condition (condition-controlled loop)."
+    },
+    {
+        "Terminology":"Lossless compression",
+        "Definition":"A method of compression where no data is permanently lost during the process."
+    },
+    {
+        "Terminology":"Lossy compression",
+        "Definition":"A method where data is permanently lost during the compression process and must be approximated when the file is decompressed."
+    },
+    {
+        "Terminology":"Low-level languages",
+        "Definition":"Programming languages that require the programmer to specify the steps to solve a problem in terms that are aligned to the operations of a specific machine."
+    },
+    {
+        "Terminology":"MAC address",
+        "Definition":"Media Access Control address. An address given to a network interface controller. Used to uniquely identify devices on a local area network."
+    },
+    {
+        "Terminology":"Machine code",
+        "Definition":"Program instructions that require no further translation."
+    },
+    {
+        "Terminology":"Machine learning (ML)",
+        "Definition":"An approach used to design and build artificial intelligence (AI) systems. Machine learning models are trained on vast quantities of data to detect patterns in the data. The model can then be used to make predictions about new data in the same context."
+    },
+    {
+        "Terminology":"Magnetic storage",
+        "Definition":"A technique to store data using polarised magnetic dots. The polarity of the dot is used to represent a 1 or a 0."
+    },
+    {
+        "Terminology":"Mailto:",
+        "Definition":"A URL scheme for email addresses. It is used to create a hyperlink that opens the user's default email client with a new email pre-populated with a recipient email address, e.g. mailto:someone@example.com."
+    },
+    {
+        "Terminology":"Main memory",
+        "Definition":"A unit with addressable memory locations that can be accessed directly by the processor. Stores data and instructions while they are being processed."
+    },
+    {
+        "Terminology":"Majority voting",
+        "Definition":"A method of error detection where each bit is sent multiple times and the majority value is used by the receiving device."
+    },
+    {
+        "Terminology":"Malware",
+        "Definition":"Malicious software. A program designed to cause damage to computer systems, corrupt or change files, steal data, or cause disruption to services."
+    },
+    {
+        "Terminology":"Mantissa",
+        "Definition":"Part of a floating point number that contains the significant digits."
+    },
+    {
+        "Terminology":"Map function",
+        "Definition":"A higher-order function where a given function is applied to every element in a given list, resulting in a new list."
+    },
+    {
+        "Terminology":"Mealy machine",
+        "Definition":"A type of finite state machine that produces outputs"
+    },
+    {
+        "Terminology":"Mebibyte",
+        "Definition":"One mebibyte is 1,048,576 bytes (220). The symbol for the mebibyte is MiB. See also megabyte."
+    },
+    {
+        "Terminology":"Megabyte",
+        "Definition":"One megabyte is 1,000,000 bytes (106). The symbol for the megabyte is MB. See also mebibyte."
+    },
+    {
+        "Terminology":"Megapixel",
+        "Definition":"One million pixels. The quality of images taken by digital cameras are often measured in megapixels."
+    },
+    {
+        "Terminology":"Memory",
+        "Definition":"Storage within a computer system."
+    },
+    {
+        "Terminology":"Memory Address Register (MAR)",
+        "Definition":"The register that holds the address of a memory location that the processor will read data from or write data to."
+    },
+    {
+        "Terminology":"Memory Buffer Register (MBR)",
+        "Definition":"The register that holds the data that is being transferred to or from main memory. Also called the memory data register (MDR)."
+    },
+    {
+        "Terminology":"Memory Data Register (MDR)",
+        "Definition":"The register that holds the data that is being transferred to or from main memory. Also called the memory buffer register (MBR)."
+    },
+    {
+        "Terminology":"Memory leak",
+        "Definition":"A problem that occurs when a computer program does not manage memory correctly. It can result in a computer system running out of usable memory."
+    },
+    {
+        "Terminology":"Merge sort",
+        "Definition":"A sorting algorithm that works by repeatedly splitting data into sublists and merging pairs of sublists, ordering the items as they are merged."
+    },
+    {
+        "Terminology":"Metadata",
+        "Definition":"Data that provides information about other data."
+    },
+    {
+        "Terminology":"Method",
+        "Definition":"In OOP, a function or procedure that is defined as part of a class definition."
+    },
+    {
+        "Terminology":"MIDI",
+        "Definition":"Musical Instrument Digital Interface. A technical standard that includes hardware specifications and a protocol to allow electronic musical instruments and computer systems to communicate, and produce and manipulate music."
+    },
+    {
+        "Terminology":"Midpoint",
+        "Definition":"The index (position) of the item that is directly in the middle of a list, or to the left of the middle if the list contains an even number of items."
+    },
+    {
+        "Terminology":"Mnemonic",
+        "Definition":"A meaningful code (such as LOAD) that is used to represent an opcode in an assembly language program."
+    },
+    {
+        "Terminology":"Model",
+        "Definition":"A systematic representation of an aspect of the real world."
+    },
+    {
+        "Terminology":"Modem",
+        "Definition":"A device used to convert digital data into signals that can be transmitted across a telecommunication system such as such as telephone lines or radio."
+    },
+    {
+        "Terminology":"Modulo operation",
+        "Definition":"An operation that returns the remainder of a division. The modulo operator is often represented by the abbreviation MOD or a percent sign (%)."
+    },
+    {
+        "Terminology":"Most significant bit (MSB)",
+        "Definition":"The leftmost bit in a binary number. The position with the highest place value."
+    },
+    {
+        "Terminology":"Multi-core system",
+        "Definition":"A CPU with more than one processing core, for example, a dual core or quad core."
+    },
+    {
+        "Terminology":"Mutable",
+        "Definition":"Able to be changed."
+    },
+    {
+        "Terminology":"NAND",
+        "Definition":"A Boolean operation that outputs True if either or both of the input values are False. It is the logical inverse of AND."
+    },
+    {
+        "Terminology":"Natural numbers",
+        "Definition":"The infinite set of positive integers, which includes zero."
+    },
+    {
+        "Terminology":"Nested iteration",
+        "Definition":"A block of code where a loop is contained within another loop. The statements inside the inner loop are executed in their entirety for every iteration of the outer loop."
+    },
+    {
+        "Terminology":"Network",
+        "Definition":"A group of devices connected together, wirelessly or using cables, so that they can communicate with each other and share resources."
+    },
+    {
+        "Terminology":"Network access device",
+        "Definition":"Hardware often supplied by an internet service provider that combines a wireless access point, an Ethernet switch, a modem, and a router."
+    },
+    {
+        "Terminology":"Network channel",
+        "Definition":"A band of frequencies that is allocated for devices on the same wireless network to communicate on."
+    },
+    {
+        "Terminology":"Network forensics",
+        "Definition":"The process of monitoring and analysing network traffic to detect and help identify intruders as well as systems and data that may have been accessed."
+    },
+    {
+        "Terminology":"Network Interface Controller (NIC)",
+        "Definition":"A component that allows a device to connect to a network."
+    },
+    {
+        "Terminology":"Network security",
+        "Definition":"A collection of measures and tools adopted to control network traffic and prevent unauthorised access or use of data."
+    },
+    {
+        "Terminology":"Neural network",
+        "Definition":"A machine learning engine consisting of interconnected nodes, organised in layers, that is trained to learn patterns in data through iterative optimisation algorithms."
+    },
+    {
+        "Terminology":"Newline character",
+        "Definition":"A control (non-printing) character that denotes the end of a line of text and the start of a new line. An escape sequence such as \\n is often used in programming languages to signify a new line."
+    },
+    {
+        "Terminology":"Node",
+        "Definition":"A fundamental unit of data within a graph data structure. Also called vertex."
+    },
+    {
+        "Terminology":"Node (network)",
+        "Definition":"A device in a network that is either an endpoint (such as a computer) or a piece of communications equipment (such as a router) that is connected to one or more other nodes."
+    },
+    {
+        "Terminology":"Non-volatile memory",
+        "Definition":"Memory that retains data when the device is switched off or power is lost."
+    },
+    {
+        "Terminology":"NOR",
+        "Definition":"A Boolean operation that outputs True if both of the input values are False. It is the logical inverse of OR."
+    },
+    {
+        "Terminology":"Normalisation (databases)",
+        "Definition":"The process of defining efficient tables in a database by ensuring that data is dependent on the key, the whole key and nothing but the key."
+    },
+    {
+        "Terminology":"Normalisation (floating point numbers)",
+        "Definition":"The process of optimising the representation of a floating point number so that each number has a unique representation."
+    },
+    {
+        "Terminology":"NOT",
+        "Definition":"A Boolean operation that outputs True if the input value is False and vice versa"
+    },
+    {
+        "Terminology":"Null value",
+        "Definition":"Used to indicate the absence of a value, for example the next node pointer at the end of a linked list."
+    },
+    {
+        "Terminology":"Number base",
+        "Definition":"The number of unique digits used to represent numbers."
+    },
+    {
+        "Terminology":"Object",
+        "Definition":"In OOP, an instance of a class with specific data."
+    },
+    {
+        "Terminology":"Object code",
+        "Definition":"Program code that has been translated and needs to be linked to become executable."
+    },
+    {
+        "Terminology":"Object-oriented programming (OOP) paradigm",
+        "Definition":"An approach to software development that focuses on the concept of using objects that interact to make up a system."
+    },
+    {
+        "Terminology":"Onboard graphics",
+        "Definition":"A graphics processor that is built into the main CPU and shares its memory. Also known as integrated graphics."
+    },
+    {
+        "Terminology":"One-time pad",
+        "Definition":"An encryption key that is used just once to encrypt and decrypt a message, and is then completely destroyed."
+    },
+    {
+        "Terminology":"Opcode",
+        "Definition":"Part of a machine code instruction that defines the fundamental machine operation to be used."
+    },
+    {
+        "Terminology":"Open source software",
+        "Definition":"Software for which the program source code is made available to the general public."
+    },
+    {
+        "Terminology":"Operand",
+        "Definition":"Part of a machine code instruction that defines the data or location of the data to be used."
+    },
+    {
+        "Terminology":"Operating System",
+        "Definition":"System software that manages hardware, software, and resources, and provides services for other software. It will also usually provide an interface for the end user."
+    },
+    {
+        "Terminology":"Optical storage",
+        "Definition":"A storage technique that uses discs. Data is stored as marks on the reflective surface of the disc. Examples include CD, DVD, and Blu-Ray."
+    },
+    {
+        "Terminology":"OR",
+        "Definition":"A Boolean operation that outputs True if either or both input values are True"
+    },
+    {
+        "Terminology":"Output",
+        "Definition":"Information produced by a computer system as a result of processing data."
+    },
+    {
+        "Terminology":"Output device",
+        "Definition":"A peripheral device such as a printer, display unit or speaker that translates signals from the computer into a human-readable form."
+    },
+    {
+        "Terminology":"Overflow error",
+        "Definition":"Occurs when the result of a calculation is a number that is too large to be represented in the number of bits available."
+    },
+    {
+        "Terminology":"Overriding",
+        "Definition":"In OOP, allowing an inherited method to be replaced by a more appropriate version (using the same identifier) in the child class."
+    },
+    {
+        "Terminology":"Packet",
+        "Definition":"The name of the data structure at the internet layer. It is used to move the transport layer data from the source to the destination across a network."
+    },
+    {
+        "Terminology":"Packet header",
+        "Definition":"The initial fields at the start of a packet that specify a series of parameters used to ensure the correct routing and processing of the packet."
+    },
+    {
+        "Terminology":"Packet switching",
+        "Definition":"A method of transmitting data across the internet using small packets of data that can take any route and are reassembled by the receiving computer."
+    },
+    {
+        "Terminology":"Parallel communication",
+        "Definition":"A method of communication where many bits are sent at the same time on a set of wires or tracks on a printed circuit."
+    },
+    {
+        "Terminology":"Parallel processing",
+        "Definition":"The simultaneous use of several processors to perform a single processing task."
+    },
+    {
+        "Terminology":"Parameter",
+        "Definition":"Part of the definition of a subroutine that specifies the data value(s) or reference(s) to be passed to the subroutine when it is called. When calling a subroutine, the values of the parameters are passed into the subroutine as arguments."
+    },
+    {
+        "Terminology":"Parity bit",
+        "Definition":"A bit that is calculated from a set of data bits and used for error detection."
+    },
+    {
+        "Terminology":"Partial function",
+        "Definition":"A function that has been called with only some of the required arguments, allowing it to be reused or used as a building block for other functions."
+    },
+    {
+        "Terminology":"Pass",
+        "Definition":"A complete traversal of a list."
+    },
+    {
+        "Terminology":"Passing by reference",
+        "Definition":"In many programming languages, parameters of subroutines can be specified either by value or by reference. When passing by reference is used, the memory address of an argument is passed into the subroutine. This means that the subroutine can change the actual value of the argument."
+    },
+    {
+        "Terminology":"Passing by value",
+        "Definition":"In many programming languages, parameters of subroutines can be specified either by value or by reference. When passing by value is used, a copy of the argument's value is passed into the subroutine. This means that the subroutine can't change the original value of the argument."
+    },
+    {
+        "Terminology":"Patch",
+        "Definition":"An update to software to fix an issue, such as a security vulnerability or bug."
+    },
+    {
+        "Terminology":"Pattern recognition",
+        "Definition":"A problem solving technique that recognises patterns or similarities in data, or identifying parts of the problem that have known algorithmic solutions."
+    },
+    {
+        "Terminology":"Peek",
+        "Definition":"The process of looking at, but not removing, the item at the top of a stack."
+    },
+    {
+        "Terminology":"Peer-to-peer networking",
+        "Definition":"A network architecture where all devices have equal status and can share resources directly with each other."
+    },
+    {
+        "Terminology":"Penetration testing",
+        "Definition":"A method of testing used to discover weaknesses or vulnerabilities in a system that could be exploited by hackers."
+    },
+    {
+        "Terminology":"Performance modelling",
+        "Definition":"The process of evaluating if a system or a program performs as expected (or not) before being released."
+    },
+    {
+        "Terminology":"Peripheral",
+        "Definition":"Additional hardware devices that are external to the core components of a computer system. These devices can be used for input, output, or data storage."
+    },
+    {
+        "Terminology":"Personal area network (PAN)",
+        "Definition":"A network of personal devices that allows data to be exchanged within their immediate vicinity."
+    },
+    {
+        "Terminology":"Pharming",
+        "Definition":"Deceiving users by sending them to a fake website that the user believes is the real one, with the intention of tricking them into submitting personal information."
+    },
+    {
+        "Terminology":"Phishing",
+        "Definition":"An attack in which the victim receives a message disguised to look like it has come from a reputable source (for example, a bank), in order to trick them into giving up personal information."
+    },
+    {
+        "Terminology":"Pipelining",
+        "Definition":"A way of organising subtasks so that they can be processed concurrently, in such a way that one subtask feeds into the next one."
+    },
+    {
+        "Terminology":"Pixel",
+        "Definition":"The smallest addressable part of a bitmap image that corresponds to a single colour."
+    },
+    {
+        "Terminology":"Place value",
+        "Definition":"The value of a digit that appears within a number. For example, the place value of 1 in the base-10 number 1,098 is 1 thousand."
+    },
+    {
+        "Terminology":"Plaintext",
+        "Definition":"In encrypted communication systems, the plaintext is the original unencrypted message."
+    },
+    {
+        "Terminology":"Pointer",
+        "Definition":"A reference to a location in memory, usually in the form of a memory address."
+    },
+    {
+        "Terminology":"Polyalphabetic cipher",
+        "Definition":"An encryption method in which different alphabetic substitutions are used for the same letter."
+    },
+    {
+        "Terminology":"Polymorphism",
+        "Definition":"In OOP, the concept that different objects can respond to the same method call in different ways, based on their class."
+    },
+    {
+        "Terminology":"Pop",
+        "Definition":"The process of removing an item from the top of a stack."
+    },
+    {
+        "Terminology":"POP3",
+        "Definition":"Post Office Protocol v3. An application layer protocol for requesting and receiving emails from an email server"
+    },
+    {
+        "Terminology":"Port",
+        "Definition":"A number that identifies a specific network process running on a device."
+    },
+    {
+        "Terminology":"Port forwarding",
+        "Definition":"A process through which a router uses port numbers to determine the destination of packets on a network."
+    },
+    {
+        "Terminology":"Post-order traversal",
+        "Definition":"A method of traversing a tree so that a node is processed after both its left and right subtrees have been examined."
+    },
+    {
+        "Terminology":"Postfix",
+        "Definition":"A notation where expressions are written with the operators after the operands."
+    },
+    {
+        "Terminology":"Pre-order traversal",
+        "Definition":"A method of traversing a tree so that a node is processed before either its left or right subtrees are examined."
+    },
+    {
+        "Terminology":"Precision",
+        "Definition":"A measure of how accurate a number is when stored  using a finite amount of significant digits."
+    },
+    {
+        "Terminology":"Predicted result",
+        "Definition":"The output that a program should produce for a given input."
+    },
+    {
+        "Terminology":"Predictive analytics",
+        "Definition":"Information from large data sets that is used to predict the likelihood of an action or event happening in the future."
+    },
+    {
+        "Terminology":"Prefix",
+        "Definition":"A notation where expressions are written with the operators before the operands."
+    },
+    {
+        "Terminology":"Prepend operator (:)",
+        "Definition":"Used to add a new single item to the front of a list."
+    },
+    {
+        "Terminology":"Primary key",
+        "Definition":"A field that uniquely identifies a record in a database table."
+    },
+    {
+        "Terminology":"Printed circuit board (PCB)",
+        "Definition":"A board that makes connections between electronic components. It uses conductive tracks to allow the transfer of data between components."
+    },
+    {
+        "Terminology":"Priority queue",
+        "Definition":"A queue in which each item has a priority associated with it that affects the position in which the item is added to the queue."
+    },
+    {
+        "Terminology":"Private key",
+        "Definition":"An encryption key that is kept secret and is used in conjunction with a corresponding public key for public\/private key cryptography"
+    },
+    {
+        "Terminology":"Problem reduction (abstraction)",
+        "Definition":"The process of removing unnecessary detail so that the problem can be reduced to one that has already been solved."
+    },
+    {
+        "Terminology":"Procedure",
+        "Definition":"A named section of code that can be called (executed) to perform a specific task by using the identifier (name of the procedure) in a program statement. In computer science theory, a procedure does not return a value."
+    },
+    {
+        "Terminology":"Process",
+        "Definition":"A program, or part of a program, that is running on a computer system and using resources."
+    },
+    {
+        "Terminology":"Processor",
+        "Definition":"The part of a computer system that carries out the fetch-decode-execute cycle."
+    },
+    {
+        "Terminology":"Processor clock",
+        "Definition":"An electronic unit connected to the processor that synchronises when the fetch-decode-execute cycle runs."
+    },
+    {
+        "Terminology":"Processor performance benchmark",
+        "Definition":"A set of baseline measurements that are used to compare processor performance"
+    },
+    {
+        "Terminology":"Program code",
+        "Definition":"Code written in a specific programming language."
+    },
+    {
+        "Terminology":"Program Counter (PC)",
+        "Definition":"A register that stores the address of the next instruction to be fetched and executed."
+    },
+    {
+        "Terminology":"Program crash",
+        "Definition":"Unexpected and abrupt program termination."
+    },
+    {
+        "Terminology":"Program translation",
+        "Definition":"The process of converting code written by a programmer into a form that can be executed by a processor."
+    },
+    {
+        "Terminology":"Programming paradigm",
+        "Definition":"An overall approach (guidelines and principles) to the way in which program code is written."
+    },
+    {
+        "Terminology":"Proper subset",
+        "Definition":"A set that is made up of some, but not all, values from another set."
+    },
+    {
+        "Terminology":"Property (CSS)",
+        "Definition":"An attribute of an HTML element that can be styled, e.g. the background colour or the font colour."
+    },
+    {
+        "Terminology":"Proprietary software",
+        "Definition":"Software with a licence that places restrictions on the user regarding their right to run, study, distribute, or modify the code."
+    },
+    {
+        "Terminology":"Protocol",
+        "Definition":"A set of rules that enable two processes to communicate."
+    },
+    {
+        "Terminology":"Pseudocode",
+        "Definition":"A syntax for expressing an algorithm, independent of a specific programming language."
+    },
+    {
+        "Terminology":"Public key",
+        "Definition":"An encryption key that is made widely available and is used in conjunction with a corresponding private key for public\/private key cryptography."
+    },
+    {
+        "Terminology":"Public key encryption",
+        "Definition":"An asymmetric encryption method that uses a pair of keys, one public and one private."
+    },
+    {
+        "Terminology":"Push",
+        "Definition":"The process of adding an item to the top of a stack."
+    },
+    {
+        "Terminology":"QR code",
+        "Definition":"Quick Response code. A means of representing data in machine-readable form. QR codes traditionally appear as a matrix of black and white squares."
+    },
+    {
+        "Terminology":"Queue",
+        "Definition":"An abstract data type that defines a list of items one after another with a front and a rear. A queue is a FIFO (first in, first out) structure."
+    },
+    {
+        "Terminology":"Quick sort",
+        "Definition":"An algorithm that sorts a list by repeatedly selecting a pivot value around which the list is systematically rearranged until the whole list is sorted."
+    },
+    {
+        "Terminology":"RAM",
+        "Definition":"Random-Access Memory. Memory in which the locations can be accessed directly in any order"
+    },
+    {
+        "Terminology":"Ransomware",
+        "Definition":"A form of malware that prevents a user from accessing their files by encrypting them, and demands the victim pay a ransom in order to release them."
+    },
+    {
+        "Terminology":"Rational numbers",
+        "Definition":"The infinite set of all numbers that can be expressed as fractions (or ratios)."
+    },
+    {
+        "Terminology":"Read mode",
+        "Definition":"A file handling mode that allows a program to read data from a file."
+    },
+    {
+        "Terminology":"Real number",
+        "Definition":"Any positive or negative number with or without a fractional part."
+    },
+    {
+        "Terminology":"Rear",
+        "Definition":"A pointer to the end of a queue."
+    },
+    {
+        "Terminology":"Record",
+        "Definition":"A data structure that can be used to store multiple pieces of data that relate to the same thing. Each piece of data can have a different data type."
+    },
+    {
+        "Terminology":"Recursive problem",
+        "Definition":"A problem that is defined in terms of itself."
+    },
+    {
+        "Terminology":"Recursive subroutine",
+        "Definition":"A subroutine that calls itself."
+    },
+    {
+        "Terminology":"Reduce\/fold function",
+        "Definition":"A function that reduces a list to a single value by repeatedly applying a folding function."
+    },
+    {
+        "Terminology":"Reference variable",
+        "Definition":"A variable name assigned to an object that points to its location in memory."
+    },
+    {
+        "Terminology":"Referential integrity",
+        "Definition":"Requires that if a value of one attribute references a value of another attribute, then the referenced value must exist."
+    },
+    {
+        "Terminology":"Register",
+        "Definition":"Storage location within the processor."
+    },
+    {
+        "Terminology":"Regular expression",
+        "Definition":"Formal notation that defines a valid string for a regular language."
+    },
+    {
+        "Terminology":"Rehashing",
+        "Definition":"The process of applying a hashing algorithm again when a collision has occurred."
+    },
+    {
+        "Terminology":"Relational database management system (RDBMS)",
+        "Definition":"Software used to organise data into tables and define relationships between data attributes in different tables."
+    },
+    {
+        "Terminology":"Relational operator",
+        "Definition":"Operators such as > (greater than) or = (equals) that compare two values and evaluate to True or False."
+    },
+    {
+        "Terminology":"Relative error",
+        "Definition":"The absolute error value expressed as a percentage of the true value."
+    },
+    {
+        "Terminology":"Removable media",
+        "Definition":"Any external storage devices that can be easily removed from a computer, for example USB flash drives or SD cards."
+    },
+    {
+        "Terminology":"REPL",
+        "Definition":"Read Evaluate Print Loop. Often called the \u2018shell\u2019, it accepts an expression input by the user, interprets it, outputs the result, and returns to accept the next expression."
+    },
+    {
+        "Terminology":"REST",
+        "Definition":"Representational State Transfer. An architecture style for developing web services."
+    },
+    {
+        "Terminology":"RFID",
+        "Definition":"Radio Frequency Identification. A system that uses electromagnetic fields to read data from tags attached to objects."
+    },
+    {
+        "Terminology":"RLE",
+        "Definition":"Run Length Encoding. A lossless compression method where repeated runs of binary data are represented by a single instance of the data and the number of repetitions."
+    },
+    {
+        "Terminology":"Rogue value",
+        "Definition":"A specific value used to terminate a loop or recursive algorithm. Also known as a sentinel value."
+    },
+    {
+        "Terminology":"ROM",
+        "Definition":"Read Only Memory. Memory that can be read from, but not written to."
+    },
+    {
+        "Terminology":"Rounding",
+        "Definition":"The process of reducing the number of digits in a number by examining the digits that follow that will be discarded."
+    },
+    {
+        "Terminology":"Router",
+        "Definition":"A networking device with two or more interfaces, each in a different network. It examines the destination IP address of incoming packets to decide which interface to use to forward the packet."
+    },
+    {
+        "Terminology":"RPN",
+        "Definition":"Reverse Polish Notation. A type of postfix notation where expressions are written with the operators after the operands."
+    },
+    {
+        "Terminology":"RTS\/CTS",
+        "Definition":"Request to Send\/Clear to Send. A pair of signals that can be used to manage the process of sending data over a wireless network."
+    },
+    {
+        "Terminology":"Runtime error",
+        "Definition":"An error that occurs during the execution of a program."
+    },
+    {
+        "Terminology":"Sample",
+        "Definition":"A single measurement of the amplitude of an analogue signal, typically sound."
+    },
+    {
+        "Terminology":"Sample resolution",
+        "Definition":"The number of bits used to encode each sample. Determines how accurately the sample can be represented. Also called bit depth."
+    },
+    {
+        "Terminology":"Sampling",
+        "Definition":"A method of capturing analogue data so that it can be converted to digital form, for example, by measuring sound at fixed intervals."
+    },
+    {
+        "Terminology":"Sampling interval",
+        "Definition":"The amount of time (measured in seconds) between two consecutive samples."
+    },
+    {
+        "Terminology":"Sampling rate",
+        "Definition":"The number of samples captured per second. Expressed in hertz (where 1Hz is one sample per second)."
+    },
+    {
+        "Terminology":"Scalar",
+        "Definition":"A single element of a number set."
+    },
+    {
+        "Terminology":"Scheduling algorithm",
+        "Definition":"An algorithm that determines the order in which an operating system will execute queued processes."
+    },
+    {
+        "Terminology":"Schema",
+        "Definition":"A description of the structure of a file in formal language."
+    },
+    {
+        "Terminology":"Scope",
+        "Definition":"Defines the area of a program where an entity - typically a variable - is valid and can be used. A variable with global scope can be used anywhere in the program."
+    },
+    {
+        "Terminology":"Secondary storage",
+        "Definition":"Types of non-volatile memory that are used to permanently store data such as the operating system and user files."
+    },
+    {
+        "Terminology":"Selection",
+        "Definition":"A program control structure that uses a logical expression to determine which path the program follows, depending on whether the expression evaluates to True or False."
+    },
+    {
+        "Terminology":"Selector (CSS)",
+        "Definition":"The target of a style rule. This can be an HTML element, an id, or a class."
+    },
+    {
+        "Terminology":"Self-documenting code",
+        "Definition":"Program code that uses meaningful identifiers for the names of subroutines, variables, and other references so that fewer comments are needed."
+    },
+    {
+        "Terminology":"Sequence",
+        "Definition":"A set of instructions that will be carried out, one after another, in the stated order."
+    },
+    {
+        "Terminology":"Serial transmission",
+        "Definition":"A method of data transmission where bits are sent one at a time over a single wire."
+    },
+    {
+        "Terminology":"Serialisation",
+        "Definition":"A method of handling concurrent updates to a database."
+    },
+    {
+        "Terminology":"Server",
+        "Definition":"A computer on a network that provides a service. Examples include file server, print server, and web server."
+    },
+    {
+        "Terminology":"Set",
+        "Definition":"An unordered collection of unique elements of the same data type."
+    },
+    {
+        "Terminology":"Shortest path",
+        "Definition":"The  sequence of edges between two nodes of a graph with the lowest total weight."
+    },
+    {
+        "Terminology":"Shouldering",
+        "Definition":"A type of social engineering attack designed to steal a victim's password or other sensitive information by using close visual observation."
+    },
+    {
+        "Terminology":"Sign and magnitude",
+        "Definition":"A method of representing signed (i.e. negative and positive) numbers where the most significant bit is used as a sign bit and has no place value."
+    },
+    {
+        "Terminology":"SMTP",
+        "Definition":"Simple Mail Transfer Protocol. An application layer protocol that handles the sending of emails."
+    },
+    {
+        "Terminology":"Social engineering",
+        "Definition":"Techniques used to trick users into giving away personal information by psychological manipulation."
+    },
+    {
+        "Terminology":"Social media",
+        "Definition":"Technologies that allow people to create and share information, and interact using virtual communities and networks."
+    },
+    {
+        "Terminology":"Socket",
+        "Definition":"An addressable location that provides an endpoint for communication between two internet hosts. Sockets are addressed via their port number."
+    },
+    {
+        "Terminology":"Software",
+        "Definition":"A generic term used to refer to applications, scripts, programs and systems that run on a device and execute specific tasks."
+    },
+    {
+        "Terminology":"Software development",
+        "Definition":"The process of developing a computer system."
+    },
+    {
+        "Terminology":"Software licence",
+        "Definition":"A legal document that outlines any restrictions on the use and\/or distribution of a piece of software."
+    },
+    {
+        "Terminology":"Source code",
+        "Definition":"Program code that has not been compiled."
+    },
+    {
+        "Terminology":"Space complexity",
+        "Definition":"The amount of memory needed to run an algorithm relative to the size of its input."
+    },
+    {
+        "Terminology":"Spyware",
+        "Definition":"A form of malware that captures data from a computing device and transmits it without the user's knowledge."
+    },
+    {
+        "Terminology":"SQL",
+        "Definition":"Structured Query Language. A declarative language designed for managing data held in a relational database management system"
+    },
+    {
+        "Terminology":"SQL statement",
+        "Definition":"A statement that is run against a database to select or manipulate data."
+    },
+    {
+        "Terminology":"SSD",
+        "Definition":"Solid-state drive. A storage device composed of flash memory that is non-volatile. Binary data is stored in electrical circuits and can be accessed at random."
+    },
+    {
+        "Terminology":"SSH",
+        "Definition":"Secure Shell. A protocol that allows for data to be encrypted."
+    },
+    {
+        "Terminology":"Stack",
+        "Definition":"An abstract data type that defines a linear structure where the last item to be added is the first item to be removed (called last in, first out or LIFO)."
+    },
+    {
+        "Terminology":"Stack frame",
+        "Definition":"An entry of the call stack for a specific instance of an active subroutine. The frame will contain the values of parameters and local variables and the address to be returned to when the instance is removed from the stack."
+    },
+    {
+        "Terminology":"Stage-by-stage approach",
+        "Definition":"An approach to systems development where each stage is completed before the next stage is started."
+    },
+    {
+        "Terminology":"Standard",
+        "Definition":"A set of specifications for hardware or software that are agreed by the technology community."
+    },
+    {
+        "Terminology":"Star topology",
+        "Definition":"The arrangement (usually physical) of a network where devices are connected through a central point, e.g. a switch."
+    },
+    {
+        "Terminology":"Start bit",
+        "Definition":"A bit that is sent to signify the start of transmission when using asynchronous communication."
+    },
+    {
+        "Terminology":"State transition diagram",
+        "Definition":"An image that represents the logic of a finite state machine."
+    },
+    {
+        "Terminology":"State transition table",
+        "Definition":"A table that represents the logic of a finite state machine."
+    },
+    {
+        "Terminology":"Statement",
+        "Definition":"An instruction in a computer program."
+    },
+    {
+        "Terminology":"Static data structure",
+        "Definition":"A collection of data whose size cannot change during program runtime."
+    },
+    {
+        "Terminology":"Static filtering",
+        "Definition":"A method used by a firewall, that checks traffic against a list of rules to determine whether the traffic should be allowed to pass through."
+    },
+    {
+        "Terminology":"Status Register (SR)",
+        "Definition":"A register that keeps track of the state of the processor. The different bits are used as status flags."
+    },
+    {
+        "Terminology":"Stop bit",
+        "Definition":"A bit that is sent to signify the end of transmission when using asynchronous communication."
+    },
+    {
+        "Terminology":"Stored program concept",
+        "Definition":"The fundamental idea that program instructions are stored in main memory from where they are fetched, decoded and executed by the processor."
+    },
+    {
+        "Terminology":"String",
+        "Definition":"A sequence of characters, e.g. letters, numbers, spaces, and other symbols."
+    },
+    {
+        "Terminology":"String length",
+        "Definition":"The number of characters in a string."
+    },
+    {
+        "Terminology":"Strong password",
+        "Definition":"A password that is hard to crack because it would take a hacker too many attempts to use brute force to guess it correctly within a useful timeframe."
+    },
+    {
+        "Terminology":"Structured English",
+        "Definition":"A method of writing algorithms using simple English words for commands and mathematical operations."
+    },
+    {
+        "Terminology":"Style (CSS)",
+        "Definition":"Used to describe how a particular HTML element or collection of HTML elements on a webpage should look."
+    },
+    {
+        "Terminology":"Stylus",
+        "Definition":"A pen designed specifically to interact with touchscreens, such as a smartphone or graphic tablet."
+    },
+    {
+        "Terminology":"Subnet mask",
+        "Definition":"A bitmask that allows the network ID to be revealed from an IP address for routing purposes."
+    },
+    {
+        "Terminology":"Subroutine",
+        "Definition":"A named section of code that can be called to perform a specific task by using the subroutine identifier in a program statement. A subroutine can be either a procedure or a function."
+    },
+    {
+        "Terminology":"Subroutine interface",
+        "Definition":"Defines how data must be passed into and out of a subroutine in terms of parameters and return values."
+    },
+    {
+        "Terminology":"Subset",
+        "Definition":"A set that is made up of some or all values from another set."
+    },
+    {
+        "Terminology":"Substitution cipher",
+        "Definition":"A cipher where one character, or set of characters, is substituted by another character (or set of characters) according to a fixed system of substitution."
+    },
+    {
+        "Terminology":"Substring",
+        "Definition":"A part of a string."
+    },
+    {
+        "Terminology":"Switch",
+        "Definition":"A network component that is used to connect devices on a local area network. It learns which device is connected to each of its ports so that it can switch traffic directly to the correct recipient."
+    },
+    {
+        "Terminology":"Symmetric encryption",
+        "Definition":"A method of encryption where the same key is used to encrypt and decrypt a message."
+    },
+    {
+        "Terminology":"Synchronous communication",
+        "Definition":"A method of communication where data is transmitted over a channel at a constant rate controlled by a shared clock signal."
+    },
+    {
+        "Terminology":"Syntax",
+        "Definition":"The precise way that program statements must be written to be understood by the computer. It is specific to the programming language that you use."
+    },
+    {
+        "Terminology":"Syntax diagram",
+        "Definition":"A method of checking whether a string conforms to the grammar of a context-free language such as BNF."
+    },
+    {
+        "Terminology":"Syntax error",
+        "Definition":"An error that occurs when the rules of the programming language are not adhered to; for instance, a missing bracket."
+    },
+    {
+        "Terminology":"System clock",
+        "Definition":"An oscillator that produces a continuous stream of alternating signals, interpreted as 1s and 0s. The clock signal is carried to every component of the computer system to synchronise operations."
+    },
+    {
+        "Terminology":"System objectives",
+        "Definition":"A list of objectives that a new or replacement computer system must satisfy."
+    },
+    {
+        "Terminology":"System requirements",
+        "Definition":"The specification of precisely what needs to be achieved by a new or replacement computer system."
+    },
+    {
+        "Terminology":"System software",
+        "Definition":"Software that interfaces with the hardware of the computer system and performs tasks that are machine-oriented."
+    },
+    {
+        "Terminology":"Tail function",
+        "Definition":"A function that returns a list of items without its head."
+    },
+    {
+        "Terminology":"TCP\/IP stack",
+        "Definition":"A conceptual four-layer model and set of protocols for internet communications."
+    },
+    {
+        "Terminology":"Terminator",
+        "Definition":"A device at the end of a network cable, that absorbs data signals, to prevent them reflecting back."
+    },
+    {
+        "Terminology":"Test data",
+        "Definition":"Data that has been carefully selected for testing. It should include normal, boundary, and invalid values as appropriate."
+    },
+    {
+        "Terminology":"Testing",
+        "Definition":"The systematic process of checking that a subroutine, program, or system works as expected."
+    },
+    {
+        "Terminology":"Text editor",
+        "Definition":"A piece of software designed to display text files and allow users to edit them. Examples include Notepad and TextEdit."
+    },
+    {
+        "Terminology":"Text file",
+        "Definition":"A file containing character data, with no special formatting. Examples of text file type extensions include '.txt' and '.csv'. Text files can be read and made sense of by humans as well as by computer systems."
+    },
+    {
+        "Terminology":"Time complexity",
+        "Definition":"The amount of time needed to run an algorithm relative to the size of its input."
+    },
+    {
+        "Terminology":"Time slice",
+        "Definition":"A slot of time allocated to a computer process so that multiple processes can appear to be running at the same time."
+    },
+    {
+        "Terminology":"Tokenisation",
+        "Definition":"The process of assigning token names to code elements as part of the process of compiling a program."
+    },
+    {
+        "Terminology":"Top",
+        "Definition":"A pointer to the top of a stack."
+    },
+    {
+        "Terminology":"Topology",
+        "Definition":"The physical or logical arrangement of connections and devices in a network."
+    },
+    {
+        "Terminology":"Trace table",
+        "Definition":"A table with a column for each variable that allows its values to be recorded during a dry run of the code (or pseudocode)."
+    },
+    {
+        "Terminology":"Tracing",
+        "Definition":"Following the flow of execution of a program, tracking the values of variables as they change, as well as the outputs."
+    },
+    {
+        "Terminology":"Tractable problem",
+        "Definition":"A problem that can be solved by a computer system in a reasonable amount of time."
+    },
+    {
+        "Terminology":"Transition function",
+        "Definition":"A set of rules for a Turing machine that use the current state and input symbol to determine the output symbol, next state, and movement of the head."
+    },
+    {
+        "Terminology":"Translator",
+        "Definition":"A piece of system software that converts code written by a programmer into a form that can be executed by a computer system."
+    },
+    {
+        "Terminology":"Transmission media",
+        "Definition":"The physical connection between devices on a network. It can be broadly categorised into either wired media (e.g. fibre-optic cables) or wireless."
+    },
+    {
+        "Terminology":"Traversal",
+        "Definition":"An algorithm that visits the items in a data structure one at a time."
+    },
+    {
+        "Terminology":"Tree",
+        "Definition":"A graph that is fully connected with no cycles."
+    },
+    {
+        "Terminology":"Tree traversal",
+        "Definition":"The systematic process of visiting (checking\/updating) each node in a tree exactly once."
+    },
+    {
+        "Terminology":"Trojan",
+        "Definition":"A piece of malware that is hidden inside another file in a computer system."
+    },
+    {
+        "Terminology":"Truncation",
+        "Definition":"The operation of cutting off characters or digits at the start or the end of a number or a (text) string."
+    },
+    {
+        "Terminology":"Truth table",
+        "Definition":"A table showing the outputs for all possible combinations of inputs to a logic gate or a circuit made up of logic gates."
+    },
+    {
+        "Terminology":"Turing machine",
+        "Definition":"A model of computation that defines computability. Its components are a read\/write head, an infinite tape, and a set of transition functions."
+    },
+    {
+        "Terminology":"Two's complement",
+        "Definition":"A method of representing signed (i.e. negative and positive) numbers where the most significant bit has a negative place value."
+    },
+    {
+        "Terminology":"UDP",
+        "Definition":"User Datagram Protocol. A transport layer protocol that prioritises the speed of data transmission over reliability."
+    },
+    {
+        "Terminology":"Underflow error",
+        "Definition":"Occurs when the result of a calculation is a number that is too small to be represented in a given number of bits."
+    },
+    {
+        "Terminology":"Unicode",
+        "Definition":"An encoding format that allocates a numeric code to characters in order for them to be represented in binary within a computer system. Unicode covers the characters for most known alphabets and special symbols (e.g. mathematical operators, geometric shapes, arrows, emojis, etc.)."
+    },
+    {
+        "Terminology":"Union",
+        "Definition":"A set operation between two or more sets that results in a new set that contains all the distinct elements from the original sets."
+    },
+    {
+        "Terminology":"Universal Turing machine",
+        "Definition":"A model of a computing machine that can simulate any Turing machine by reading a description of the machine from its own tape"
+    },
+    {
+        "Terminology":"URL",
+        "Definition":"Uniform Resource Locator. The address of a resource on the internet. It indicates the location of a resource as well as the protocol used to access it."
+    },
+    {
+        "Terminology":"User",
+        "Definition":"The person interacting with a computer system through its user interface."
+    },
+    {
+        "Terminology":"Utility software",
+        "Definition":"A subcategory of system software that improves the security or performance of a computer system. Examples include antivirus software and registry cleaners."
+    },
+    {
+        "Terminology":"UTP cable",
+        "Definition":"Unshielded Twisted Pair cable. A type of cable where two conductors are twisted together to reduce interference. Also known as Ethernet cable."
+    },
+    {
+        "Terminology":"Validation",
+        "Definition":"Checking that data is acceptable by comparing it against a set of criteria."
+    },
+    {
+        "Terminology":"Variable",
+        "Definition":"An identifier associated with an area of computer memory in which data is stored. The data can change during program execution."
+    },
+    {
+        "Terminology":"Vector",
+        "Definition":"An abstract data type that defines a collection of entries drawn from the same field."
+    },
+    {
+        "Terminology":"Vector graphic",
+        "Definition":"An image that is stored as a set of instructions to recreate it. Uses a drawing list made up of a set of objects and their properties."
+    },
+    {
+        "Terminology":"Venn diagram",
+        "Definition":"An illustration that uses circles to show the relationships between different groups of elements. Where the circles overlap, it shows that there are elements in common."
+    },
+    {
+        "Terminology":"Vernam cipher",
+        "Definition":"An encryption method where each character is combined with a corresponding key character using a logical bitwise XOR operation."
+    },
+    {
+        "Terminology":"Vertex",
+        "Definition":"A fundamental unit of data within a graph data structure. Also called node."
+    },
+    {
+        "Terminology":"Videoconferencing",
+        "Definition":"A live meeting between two or more people in different locations using video-enabled devices."
+    },
+    {
+        "Terminology":"Virtual network",
+        "Definition":"A network whose logical structure is independent of its physical structure. A VLAN is a virtual local area network."
+    },
+    {
+        "Terminology":"Virtual Storage",
+        "Definition":"A method of using a shared storage device, sometimes connected to the internet, that a user can access as if it were local storage."
+    },
+    {
+        "Terminology":"Virus",
+        "Definition":"Malware in the form of a program that attaches itself to another file and can replicate itself when the file is executed."
+    },
+    {
+        "Terminology":"Visited list",
+        "Definition":"The set of nodes of a graph that have been fully explored"
+    },
+    {
+        "Terminology":"Visualisation",
+        "Definition":"A variety of techniques used to illustrate a problem and\/or its solution to make it easier to understand."
+    },
+    {
+        "Terminology":"Volatile memory",
+        "Definition":"Memory that only retains data when there is power to the device."
+    },
+    {
+        "Terminology":"Von Neumann architecture",
+        "Definition":"A computer architecture that provides a single shared memory for data and instructions."
+    },
+    {
+        "Terminology":"VPN",
+        "Definition":"Virtual private network. Extends a private network across a public network (such as the internet), allowing secure access to systems and data."
+    },
+    {
+        "Terminology":"Vulnerability",
+        "Definition":"A weakness in a computer system that leaves it open to attack, such as an insecure wireless network or unpatched software."
+    },
+    {
+        "Terminology":"Waterfall lifecycle",
+        "Definition":"A linear approach to software development where each stage is completed before the next stage begins."
+    },
+    {
+        "Terminology":"Websocket protocol",
+        "Definition":"A set of rules that allows two computers to share a dedicated channel for the exchange of web page content."
+    },
+    {
+        "Terminology":"Weight",
+        "Definition":"A value associated with an edge in a graph."
+    },
+    {
+        "Terminology":"Weighted graph",
+        "Definition":"A graph where values are assigned to the edges."
+    },
+    {
+        "Terminology":"White box testing",
+        "Definition":"A method of testing where all possible routes through a program are identified and tested."
+    },
+    {
+        "Terminology":"Wi-Fi",
+        "Definition":"The tradename for a family of wireless network protocols that allow devices to communicate over a local network using radio waves."
+    },
+    {
+        "Terminology":"Wide area network (WAN)",
+        "Definition":"Two or more distinct networks connected together, usually covering a large geographical area."
+    },
+    {
+        "Terminology":"Wireless Access Point (WAP)",
+        "Definition":"A network device that manages wireless connections to a local area network."
+    },
+    {
+        "Terminology":"WLAN",
+        "Definition":"Wireless local area network. Uses wireless communication protocols to connect devices on a local area network."
+    },
+    {
+        "Terminology":"World Wide Web (WWW)",
+        "Definition":"A collection of hyperlinked content accessible on the internet, usually web pages."
+    },
+    {
+        "Terminology":"Worm",
+        "Definition":"Malware that is able to replicate itself and does not need to use another file as a vector."
+    },
+    {
+        "Terminology":"WPA\/2\/3",
+        "Definition":"Wi-Fi Protected Access v2\/3. A protocol for encrypting data on a wireless network."
+    },
+    {
+        "Terminology":"Write mode",
+        "Definition":"A file handling mode that allows a program to write data to a file. If the file does not exist, a new file is created, while if the file already exists, the content is overwritten."
+    },
+    {
+        "Terminology":"XML",
+        "Definition":"Extensible Markup Language. An open file format that uses human-readable text for data transmission."
+    },
+    {
+        "Terminology":"XOR",
+        "Definition":"A Boolean operation that outputs True if either, but not both, of the input values are True"
+    }
+]
